@@ -1,0 +1,15 @@
+﻿++ Ev_ryyndamas
+
+The creator of [The Thousand Fires Hammer].
+
+
+------------------------
+
++++Related Pages: 
+
+
+{this page links from}
+[:rel:parents;aslist] 
+
+{this page links to}
+[:rel:children;aslist;existingonly]

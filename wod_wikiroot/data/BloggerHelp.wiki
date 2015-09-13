@@ -1,0 +1,57 @@
+﻿++ Blogger Help 
+Blogger v1.0.5 2008-12-02
+Michael Allison
+
+*Introduction*
+
+This Blogger, like Wikidpad, is designed for personal blogging on a daily basis. The author developed had given up using a paper based log book for work. In it_s place he used a "personal blog" which has since ceased to be supported. Personal blogs have the following characteristics.
+
+    * Needs to integrate with a personal Wiki.
+    * Must be simple to create a new blog entry.
+    * Entries must be dated.
+    * Data must be stored in plain text files
+    * Some times you don_t get to write each day, it must be possible to write tardy entries for the last few days.
+    * Some people write stream of conciousness, others write bulleted lists. The format must be customizable.
+    * I_m lazy, and others don_t share my interest in coding. Install and use must not require coding.
+
+After a relatively fruitless search for replacements, the closest found was Wikidpad. Thus, a Wikidpad based blogging solution was born.
+
+*Installation*
+
+The Blogger is distributed as a single Wikidpad extension file: Blog.py. Perform the following operations to install:
+    * Copy Blog.py to the Wikidpad/extensions directory
+    * Restart Wikidpad
+You are ready to start the blog.
+
+*Use*
+
+The Blog extension adds two menu items to the "Plugin" menu
+    * Edit Today_s Blog
+    * Edit Other Day_s Blog
+
+Selecting the first item will open a blog page for today. Simply begin editing it and adding your wonderful content. 
+
+Selecting the second item will open a dialog, allowing you to specify a specific date. If the page does not exist, it will be created and opened for you to edit. 
+
+If later in the day you want to re-edit the page, you can select the appropriate menu item and it will be made available for you edit.
+
+Each blog page is tagged with a property _blog_, which creates an entry under _Views_. The entries are hierarchically sorted by year, then by month. From this view you can access any previous blog entries. 
+
+*Customization*
+
+The most typical customization is to change the BlogEntryTemplate. This will change the layout of new blog entries and lets you place any boilerplate text you want on your entries. For the most part you can edit this template freely. There are two important pieces of required text. The first is the string _\BlogEntryTemplate_, which is replaced with the name of blog entry (the date). The second piece of text that must be present is _INSERTDATEHERE_. This piece of text is replaced with a property allowing you to find the blog entry under the tree->blog->year->month. 
+
+*Internal Operation*
+
+The blog software is driven from invoking either of the two menu items. When attempting to edit a blog page, the software attempts to copy the BlogEntryTemplate. If it can not be found, it will create the template from a basic built in format. The software also will add a link from the file LogBook. Linking to LogBook keeps each blog entry from showing up in the parentless view.
+
+*Change Log*
+    * V1.0.5 - Use proper coding for page creation, fix Linux regression
+    * V1.0.4 - Fixed a defect with tree view update
+    * V1.0.3 - Fixed a defect (createHelpFile) on a brand new Wiki"
+    * V1.0.2 - Better localization on the OK/Cancel buttons for the date dialog
+    * V1.0.1 - Fix unicode strings to allow Linux
+    * V1.0.0 - First release
+
+
+[blog.help:1.0.5]

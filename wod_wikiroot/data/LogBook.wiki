@@ -1,0 +1,10 @@
+﻿++ Log Book
+
+This log book exists to prevent each log entry from being an orphan.
+Access the log entries via "tree->views->blog".
+
+You can, of course, link to this page if you wish.
+
+ENTRY LIST
+*September 2015*
+[2015-09-05]

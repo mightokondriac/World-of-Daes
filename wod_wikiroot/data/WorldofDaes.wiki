@@ -1,0 +1,255 @@
+﻿++ Worldof Daes
+[alias: World of Daes]
+[alias: WoD]
+[alias: Daes]
+[aspect.world: Daes]
+The World of Daes is both a planet and a project at the same time.
+
+++Locations of Daes
+The Continent of [Godorand].
+    Mech Sustoa
+    De_Charedans
+    Cosom Mountain
+    Kaishen Rock
+    Basin of the Sun and Moon
+    Thalas Grove
+    Brethren Lake
+    Way Court
+    Denulrau Caves
+    Mt. Ulrang
+    Deirrok
+    Newchamber
+    Westang Harbor
+    Waering Harbor
+    Talihn_s Cove
+    South Sjemmin
+    Pagegresa Lake
+    Derrin Wood
+    Southern Wayfare
+    Root Creek
+    Choss
+    The Quiet Silver Grass
+    Stout Branch Lake
+    Blue River
+    Bent Creek
+    Thousand Wonders River
+    Qes_das River
+    Poltre River
+    Escaladrhe Esh
+    Dis_codja Hills
+    Mech_codja Hills
+    Bramble Wood
+    White Stone
+    Elderwood Grove
+    Mahr keys
+    Duabash Islands
+    Altieria Island
+    Cenoix Island
+    Rendabash Is
+    Apis Nah Range
+    Kali_ orum
+    Northern Wing Mountains
+    Eastern Wing Mountains
+    Western Wing Mountains
+    Dragonback Mountains
+    Balasindra Range
+    Lyyndrinas
+    Me_andre
+    Thearindiea
+    Lake Ulanis
+    Aberakken Forest
+    Memnron
+    Gaere Island
+    Nol Radol Point
+    Du Fayol Bay
+    Nilridin Island
+    Rambeska Island
+    Un Heyre
+    Hishthimin Island
+    Oen Haddthra Island
+    Zi Djap Island
+    Bliisraen Bay
+    Gulf of De El
+    Damein Island
+    Rendaven Island
+    El Davien Island
+    Dragonhead Bay
+    Cape Wendis
+    Aniendier Bay
+    Olind Sound
+    Jesha Sound
+    Grinath d_Anol Bay
+    Cape of Coria
+    Mt. Jenricha
+    Mt. Gir Nadis
+    Iopondhr Range
+    Mt. Misraut
+    Hacrondue Range
+    Mankalis Bay
+    Falidur Bay
+    Serpencia
+    Capolron
+    Alicorr
+    Three Guardians Grove
+    Sanctum Cove
+    Old Western Way
+    Shen Di Coast
+    Lord Ham_s Road
+    Faire Merchant_s Trail
+    East Chaphill Way
+    Four Teeth Crossing
+    Gofflin Plains
+    Serpent_s Pass
+    Conquerer_s Cove
+    Trian Island
+    Serpent_s Isle
+    Two Stars Wall
+    Greater Star Wall
+    Schi Endiss Dii
+    Kentah Forest
+    Jentah Forest
+    Dead Rock Point
+    Ruins of Telas Di
+    Ruins of Telas Mon
+    Udu Island
+    Iron Cove
+    Long Spear Cove
+    Remdurin Island
+    Hidden Cave
+    Calano_s Cave
+    Starfish Rock
+    Ten Points Cove
+    White Scar Point
+    Shem Doo Bon
+    Linskrat
+    Black Woods
+    Waylan_s Cross
+    Digikthit Juoxic Difouni
+    Shar Fields
+    El Marran Fields
+    Kali_an Forest
+    Four Patron_s Grove
+    Thenerais Forest
+    South Herrian Forest
+    North Herrian Forest
+    Lake Haerrah
+    Torizh Island
+    Torois Deviy Spilof
+    Fikfodoik
+    Sauaras Kingu
+    Gingire Sisdor Finaryin
+    Blind Bird Way
+    Castle D_Kranis
+    Krane Wood
+    Eepulom
+    Schi Velis
+    Ruins of Mon Pia
+    Cliffs of Abbadon
+    Ashem
+    Bak To Ren
+    Baktose Wood
+    Jack Lake
+    Three Spurrs
+    Pali Pali Whenn
+    Dead Man_s Cove
+    Dragon_s Jaw Cliffs
+    Crescent Cove
+    Knight_s Port
+    Baron_s Port
+    Prince_s Port
+    Kings Port
+    Skratton Island
+    Prince Island
+    Ol_ Kings Island
+    Corr Dunsk
+    Corr Heiht
+    Svalen Wood
+    Tongorin Weritbik Tonergorin
+    Isle of Trina_Cord
+    Den na_Cor Coast
+    Bon Tai Plains
+    Serappian Coast
+    El Tennaka
+    Tenkka
+    Eastern Wayfare
+    Tristarland
+    Jeshalande
+    Lake Allerris
+    Kiipiz Lake
+    Talonbrook
+    Besk archipelago
+    De Ol_rokk
+    Apengum
+    Sjemmin
+    Kali_ diem
+    Hisperron
+    Faelerrn
+    JinJin
+    Karipore
+    Allendell
+    Southern Wayfare
+    Old Man_s Cove
+    Mas Point
+    Bay of Iccurus
+    Tang _en Jen Range
+    Kalestra
+    [Royal Bearing Points]
+
+
+
+++Written Works
+[Story Elements] [Shorts] [Micros]
+[Odem Lore] [Artifact Lore]
+
+++Entities (Physical)
+[Ancient Gods]
+[Odem]
+[Precipitant]
+    [The Brothers of Metal] (Ev_Relach Sogema)
+        see also [Ev_ryyndamas] and the story of the making of "[The Thousand Fires Hammer]".
+    [The Sisters of Stone]
+        see also [Staviclema], "Sisters of the Charge".
+[Lords of Trivault]
+    [Tritavas]
+    [Sirviirtoch]
+    [Ruajaesviera] ([Raclem Eviticacha])
+    [Rastasqek]
+    [Sykgrola]
+    [Sorraut]
+    [First Children]
+    [Divergent Races]
+++Entities (Conceptual)
+[Odem Charge]
+[Metal Exposure]
+[Inanimate Intelligence]
+[Odem Connection]
+++Metal Relation (Physical)
+[Ore]
+[Ingots]
+[Artifacts]
+[Wells]
+[Springs]
+[Smelting]
+[Forging]
+[Combining] (Alloying)
+++Metal Related (Conceptual)
+[Non-Interactive]
+[Interactive]
+[Precipitation]
+[Invocation]
+[Criterion]
+[Exclusion]
+[Divergent]
+[Convergent]
+[Shunting]
+
+------------------------
+
++++Related Pages: 
+
+
+{this page links from}
+[:rel:parents;aslist] 
+
+{this page links to}
+[:rel:children;aslist;existingonly]
