@@ -1,0 +1,45 @@
+[wiki_db]
+data_dir = data
+
+[main]
+wikiwidehistory_maxentries = 100
+footnotes_as_wikiwords = False
+indexsearch_enabled = False
+last_wiki_word = WorldofDaes
+hotkey_showhide_bywiki = 
+log_window_autoshow = Gray
+filestorage_identity_filenamemustmatch = False
+filestorage_identity_moddateisenough = False
+export_default_dir = 
+trashcan_maxnoofbags = 200
+tabs_maxcharacters = 0
+trashcan_askondelete = True
+wiki_icon = 
+headingsasaliases_depth = 0
+wiki_name = WorldofDaes
+tree_expandednodes_rememberduration = 2
+wikipagetitleprefix = ++
+wikipagetitle_fromlinktitle = False
+wiki_lastactivetabno = 0
+first_wiki_word = 
+wikipagefiles_gracefuloutsideaddandremove = True
+versioning_storagelocation = 0
+wiki_lasttabssubctrls = textedit
+template_pagenamesre = ^template/
+wikipagetitle_creationmode = 1
+tabhistory_maxentries = 25
+tree_expandednodes_descriptorpathes_main = wikipage/WorldofDaes,wikipage/Staviclema;wikipage/WorldofDaes,helpernode/main/view,helpernode/propcategory/,helpernode/propcategory/Core,helpernode/propcategory/Core.Concepts,helpernode/propvalue/Core.Concepts/Origins;wikipage/WorldofDaes,helpernode/main/view,helpernode/propcategory/,helpernode/propcategory/Core,helpernode/propcategory/Core.Locations;wikipage/WorldofDaes,helpernode/main/view,helpernode/propcategory/,helpernode/propcategory/blog,helpernode/propcategory/blog.2015;wikipage/WorldofDaes,wikipage/Odem;wikipage/WorldofDaes,wikipage/Divergent Races;wikipage/WorldofDaes,wikipage/Artifacts,wikipage/The Gifts of Zo'mas,wikipage/The Scales of Zo'mas;wikipage/WorldofDaes,wikipage/Shorts,wikipage/Clamorstone Accounts;wikipage/WorldofDaes,helpernode/main/view,helpernode/propcategory/,helpernode/propcategory/blog;wikipage/WorldofDaes,helpernode/main/view,helpernode/propcategory/,helpernode/propcategory/Edit;wikipage/WorldofDaes,helpernode/main/view,helpernode/propcategory/,helpernode/propcategory/blog,helpernode/propcategory/blog.help,helpernode/propvalue/blog.help/1.0.5;wikipage/WorldofDaes,wikipage/Odem,wikipage/The Tesdema;wikipage/WorldofDaes,wikipage/The Thousand Fires Hammer;wikipage/WorldofDaes,helpernode/main/view,helpernode/propcategory/,helpernode/propcategory/Core,helpernode/propcategory/Core.Locations,helpernode/propvalue/Core.Locations/Origins;wikipage/WorldofDaes,wikipage/Artifact Lore;wikipage/WorldofDaes,helpernode/main/view,helpernode/main/funcpages;wikipage/WorldofDaes,helpernode/main/view;wikipage/WorldofDaes,wikipage/Odem,wikipage/Meardema;wikipage/WorldofDaes,wikipage/Staviclema,wikipage/Order of The Clemis;wikipage/WorldofDaes,helpernode/main/view,helpernode/propcategory/,helpernode/propcategory/blog,helpernode/propcategory/blog.help;wikipage/WorldofDaes,helpernode/main/view,helpernode/propcategory/,helpernode/propcategory/global,helpernode/propcategory/global.wrap,helpernode/propvalue/global.wrap/70;wikipage/WorldofDaes,helpernode/main/view,helpernode/propcategory/,helpernode/propcategory/storylines;wikipage/WorldofDaes,helpernode/main/view,helpernode/propcategory/,helpernode/propcategory/blog,helpernode/propcategory/blog.2015,helpernode/propvalue/blog.2015/09;wikipage/WorldofDaes,wikipage/Story Elements,wikipage/Uracram;wikipage/WorldofDaes,wikipage/Story Elements;wikipage/WorldofDaes,wikipage/Shorts;wikipage/WorldofDaes,wikipage/Royal Bearing Points;wikipage/WorldofDaes,helpernode/main/view,helpernode/main/parentless;wikipage/WorldofDaes,helpernode/main/view,helpernode/propcategory/,helpernode/propcategory/Core,helpernode/propcategory/Core.Concepts;wikipage/WorldofDaes;wikipage/WorldofDaes,wikipage/First Children,wikipage/Birth of the Trivault Lords;wikipage/WorldofDaes,wikipage/Shorts,wikipage/Clamorstone Accounts,wikipage/Kiim;wikipage/WorldofDaes,wikipage/Artifacts,wikipage/The Ten Fires Staff;wikipage/WorldofDaes,wikipage/Story Elements,wikipage/Legends of Uracram;wikipage/WorldofDaes,helpernode/main/view,helpernode/propcategory/,helpernode/propcategory/Core;wikipage/WorldofDaes,wikipage/First Children;wikipage/WorldofDaes,helpernode/main/view,helpernode/propcategory/,helpernode/propcategory/global;wikipage/WorldofDaes,wikipage/Ancient Gods;wikipage/WorldofDaes,wikipage/Artifact Lore,wikipage/The Gifts of Zo_mas;wikipage/WorldofDaes,helpernode/main/view,helpernode/propcategory/,helpernode/propcategory/Core,helpernode/propcategory/Core.Entities,helpernode/propvalue/Core.Entities/Lords of Trivault
+wiki_wikilanguage = wikidpad_default_2_0
+tree_force_scratchpad_visibility = True
+further_wiki_words = 
+tree_expandednodes_descriptorpathes_views = 
+tree_last_root_wiki_word = WorldofDaes
+db_pagefile_suffix = .wiki
+filestorage_identity_moddatemustmatch = False
+trashcan_storagelocation = 0
+wiki_database_type = original_gadfly
+wikipagefiles_asciionly = True
+indexsearch_formatno = 1
+versioning_completesteps = 10
+wiki_readonly = False
+
