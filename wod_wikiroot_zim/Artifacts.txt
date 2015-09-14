@@ -2,8 +2,8 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2015-09-13T19:06:12-04:00
 
-++ Artifacts
-[alias: Artifact Lore]
+====== Artifacts ======
+@artifactlore
 
 ++The Hammer of Ev_Ryyndamas
 _Also known as "The Hammer That Needs No Forge", "The Hammer of a Thousand Fires", "The Thousand Fires Hammer", "Great Hammer of the Forge of Eternal Fires", "The Hand of Ryyndal"._

@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2015-09-13T19:31:57-04:00
 
-++ Brothers of Metal
+====== Brothers of Metal ======
 [alias: Ev_Relach Sogema; The Brothers of Metal; Sons of Fire; Rogema]
 
 [Core.Concepts: Origins]
