@@ -5,4 +5,32 @@ Creation-Date: 2015-09-13T23:30:49-04:00
 ====== project.issues ======
 Created Sunday 13 September 2015
 
-..
+* **From the wikidpad imports** 
+	* Headers are still mostly incorrect markdown
+	* pages are not linked to each other yet
+	* formatting broken from incompatible markdown
+* **Naming of Entities**
+	* Still some legacy errors where "yy" and "nn" conflict with each other
+	* Number of "Lords of Trivault" has errors in several places
+	* Double check conflicts of PRECIPITANT and LORDS OF TRIVAULT
+* **Content of Odem Pages**
+	* Complete all [[The Indema]]
+	* Complete all [[The Tesdema]]
+	* Complete all [[Meardema]]
+	* Complete all [[Nisdem]]
+	* Complete all Odem Metal Effects Pages
+
+
+
+ [TODO]:
+[ ] Headers are still mostly incorrect markdown
+[ ] pages are not linked to each other yet
+[ ] formatting broken from incompatible markdown
+[ ] Still some legacy errors where "yy" and "nn" conflict with each other
+[ ] Number of "Lords of Trivault" has errors in several places
+[ ] Double check conflicts of PRECIPITANT and LORDS OF TRIVAULT
+[ ] Complete all [[The Indema]]
+[ ] Complete all [[The Tesdema]]
+[ ] Complete all [[Meardema]]
+[ ] Complete all [[Nisdem]]
+[ ] Complete all Odem Metal Effects Pages
