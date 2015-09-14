@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-13T21:58:37-04:00
+
+++ Oured
+[Core.Locations: Origins]
+[Edit.Critical: Locations]
+
+The Void where the endless water of the [Great Wells] eventually ceases.

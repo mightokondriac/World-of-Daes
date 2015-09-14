@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-13T19:33:40-04:00
+
+++ Divergent Races
+
+There are many divergent races in the [World of Daes]. Here are some of the more prominent ones.
+
+++The Hi_Stos
+
+The [Hi_stos] were the children of [The Sleepers], of [Meark] the Great Odom of Iron.
+
+------------------------
+
++++Related Pages: 
+
+
+{this page links from}
+[:rel:parents;aslist] 
+
+{this page links to}
+[:rel:children;aslist;existingonly]

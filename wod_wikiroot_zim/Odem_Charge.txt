@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-13T21:57:25-04:00
+
+++ Odem Charge
+[Core.Concepts: Origins]
+
+The Charge is the Level at which a beging is infused with the spirit of the divine metals.
+
+------------------------
+
++++Related Pages: 
+
+
+{this page links from}
+[:rel:parents;aslist] 
+
+{this page links to}
+[:rel:children;aslist;existingonly]

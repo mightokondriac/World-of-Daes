@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-13T22:04:46-04:00
+
+++ Staviclema
+[alias: Sisters of the Charge]
+[alias: SotC]
+[Core.Concepts:Origins]
+[Core.Entities:Origins]
+
+
+Quote:
+Once a great and noble line, from whence the Sister_s Charge came; The Clemis, caretakers of the stone wells, creators of the sacred groves. Now, chained by the [Red Collar], cutting the forests and reaping the rocks. Sisters of the Charge are the last remaining remnents of the [Order of The Clemis], who were the first creatures chosen by the [Sisters of Stone] to watch over the wells for the rest of time.  
+
+Roles of the SotC
+
+The Sisters of the Charge are known in current times as the creators and maintainers of the [monetary system]. This was a charge given to them by the [Dragon Emperor] in exchange for them not being exterminated. They are the only ones in creation capable of making items that last forever without the direct influence of metal. This is done through the process of the [Dos Vor] ritual.
+
+History
+This needs to be written.

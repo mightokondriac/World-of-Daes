@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-13T21:32:46-04:00
+
+++ Great Forge of Ryyndal
+[Core.Locations: Origins]
+[Core.Concepts: Origins]
+[Edit.Critical: Locations]

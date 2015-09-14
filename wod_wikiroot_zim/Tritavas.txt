@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-13T22:08:33-04:00
+
+++ Tritavas
+[Core.Entities: Lords of Trivault]
+[Edit.Critical: Entities]
+
+The legends of Tritavas are classic tales created in the [5th age] of a [Nova-Phoenix] King Snake of Trivault. The descriptions of Tritavas vary slightly across the norther mountains and desert region now called [Bon Tai], but across all of the tales there is no variation about his color - bright silver-white. Additionally, it is well known that his [Nova-Orb] Symbol was a red circle bisected by a white wavy line. Many who believe the stories to be true still draw strength from this symbol by drawing it upon the ground where a firepit would be dug. It was believed that the flame from this fire would bring the protection and favor of Tritavas out upon the ground around them, and while the flame was sustained, the protection would as well. In the beginning of the [8th age], there was rumor in the east lands that the Tritavas-Orb had been found by [Sa_Suanomsa] (The Blue Force) of the kingdom of[ Kaelnomra] (Now [Kaelestra]).
+
+Read the Legends of Tritavas.

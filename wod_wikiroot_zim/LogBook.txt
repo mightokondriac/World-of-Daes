@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-13T21:53:40-04:00
+
+++ Log Book
+
+This log book exists to prevent each log entry from being an orphan.
+Access the log entries via "tree->views->blog".
+
+You can, of course, link to this page if you wish.
+
+ENTRY LIST
+*September 2015*
+[2015-09-05]
