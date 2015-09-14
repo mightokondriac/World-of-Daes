@@ -5,7 +5,7 @@ A comprehensive world meant to be a template for duplication. All events and map
 originally.
 
 # Converting over to Zim Desktop + Git
-*This program is buggy and is unreliable at the moment. Imported all pages in zim. It is a functional db at the moment but I will update the page structure later. Currently everything is a flat list with tags, which, is more of a useful way to browse than the normal browser.*
+>*This program is buggy and is unreliable at the moment. Imported all pages in zim. It is a functional db at the moment but I will update the page structure later. Currently everything is a flat list with tags, which, is more of a useful way to browse than the normal browser.*
 
 I just tested it with zim-desktop in one window and Git desktop in the other window. Made changes in the wiki - no save, just typed - instantly shows up on the Git Desktop as a change that I can commit and sync. Aaaahahahahah
 
