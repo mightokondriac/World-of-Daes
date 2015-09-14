@@ -5,4 +5,4 @@ A comprehensive world meant to be a template for duplication. All events and map
 originally.
 
 # Converting over to Zim Desktop + Git
-Woop
+This program is buggy and is unreliable at the moment. Imported all pages in zim. It is a functional db at the moment but I will update the page structure later. Currently everything is a flat list with tags, which, is more of a useful way to browse than the normal browser. 
