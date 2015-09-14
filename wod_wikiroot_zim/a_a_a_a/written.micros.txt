@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-13T23:37:07-04:00
+
+====== written.micros ======
+Created Sunday 13 September 2015
+
+micro stuff

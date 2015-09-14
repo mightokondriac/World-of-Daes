@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-13T22:05:44-04:00
+
+++ The Gifts of Zo_mas
+
+The wingless wyrme, Goldborn ([Zo_mas]), is known to be the oldest of the [Sun Dragons]; born from the pool of the first creatures of Muwinn of the Sun. In the [First Age], 3 of his scales were gifted to the 3 greatest [Brothers of Metal] (original metallurgists) to create the mightiest of shields ever developed by the hands of mortals. Two of the scales (Silas and Rhias, named after the men who carried them from the wyrm_s high mount, "[Risendome]")were crafted into mighty, light bearing shields of unparalleled renown, but the third (Apthis) was lost in "[The Siege in the Glade of Shadows]" and was not heard of again for an age. The crafted shields remained "The Scales of Zomas" in ancient lore in their general reference. In more distinct and specific lore they were affected new names as was the fashion of speaking and naming creatures of the world.
+
+read the full story of [The Scales of Zo_mas] 
+
+
+
+------------------------
+
++++Related Pages: 
+
+
+{this page links from}
+[:rel:parents;aslist] 
+
+{this page links to}
+[:rel:children;aslist;existingonly]

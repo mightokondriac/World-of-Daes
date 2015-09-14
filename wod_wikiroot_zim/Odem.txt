@@ -1,0 +1,60 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-13T21:57:05-04:00
+
+++ Odem
+[Core.Concepts: Origins]
+[Edit.Critical: Historical]
++The Odem Introduction
+
+	Those who are the minds of the metal. The spirits that dwelt in the world with no form until they brought themselves into the minerals, to live forever there, to bring life and intelligence to all beings. -[Kolvolt Forninias Fiaine] - [2nd Age]
+
+	In the time of the sinking metal and spinning fire, there were creators who formed worlds and the systems of cycles. These creators were named, by the [more recent historians], The [Anschiant] or “The Many of One”. As their name implies, they were also a hierarchy of powers, yet those details are murky at best. Not even the Odem knew the matrix of their hosts. There is only one aspect of the “Aana”, as they were known to be called, that are known beyond their creation powers. 
+
+	The Odem, from their distant beginnings, abided them in their omnipotent powers. It is said, by the first minds created by the Odema of Daes, that the unnamed gods of the world, and indeed the universe, invited the Odem to the spheres of rock and water formed out of the darkness; to bring variance and intelligence to the world in myriad forms. The original gods pleaded to the Odem; "_The beauty of this world is manifold and we have created this garden of many rows and chambers for you to distribute your will, in the creation of beings,  to live and become cultured as one within it._"
+    
+	There was but one rule set upon the [Daeanis ol_Demgimdra] (Travelers and Shepards in the House of Daes, as the Odem were originally called in the ancient days.), "_Cherish this world, embrace it as kin, and all that springs from it!_"
+
+*It was the method of the Odem*
+
+++[Mirodem]
+[Kam]
+++[The Tesdema]
+[Muwinn]
+[Ryyndal]
+[Anthis]
+[Nabhiore]
+++[The Indema]
+[Umbalinn]
+[Byalinn]
+[Ordrinn]
+[Meark]
+[Klanik]
+[Loffin]
+[Crinn]
+++[Meardema]
+[Lesrel]
+[Ki_mal]
+[Numis]
+[Aeorin]
+[Mahgrohl]
+[Wiar]
+[Umbanthis]
+[Diyesrel]
+[Dym]
+[Safryy]
+++[Nisdem]
+[Nevrenis]
+[Anschiant]
+
+
+------------------------
+
++++Related Pages: 
+
+
+{this page links from}
+[:rel:parents;aslist] 
+
+{this page links to}
+[:rel:children;aslist;existingonly]

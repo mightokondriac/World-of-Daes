@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-13T21:59:28-04:00
+
+++ Reglam Well
+[Core.Locations: Great Wells]
+[Edit.Critical: Locations]

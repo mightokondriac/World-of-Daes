@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-13T19:31:57-04:00
+
+++ Brothers of Metal
+[alias: Ev_Relach Sogema; The Brothers of Metal; Sons of Fire; Rogema]
+
+[Core.Concepts: Origins]
+[Core.Entities: Precipitant]
+[Edit.Critical: Entities]
+[Brothers of Metal]
+The Brothers of Metal existed in their known form during the [1st Age] and [2nd Age] of [Godorand] and none other.
+
++++Abstract
+In the first age there were metallurgists and blacksmiths of vast knowledge and training who plyed their skills on devices of peace and of beauty and in love for the [Odem]. It was said the metal ran through their veins in such high amounts as to make their skin shimmer and their eyes flash like polished coins of silver and gold. So great was their work in the depths of the earth that for a time, the Odem felt they were being directed in ways unknown to them and they faltered in their high stations of being "those who know and express all that is".
+
++++Society Notes
+The Sogem were a deathless, dispasionate group of beings loosly considered male. They were in fact as undying and unaffected as the metal they were made from. They neither loved nor hated. They lived for the beauty of the finished creation and the formulation of the next. They stepped away from the furnaces and came together twice in their whole existance. The First was to witness the birth of the [Lords of Trivault], the second was to face the wrath and vengence of the [Twisted One]...
+
++++Geographical Notes
+The home of the Brothers of Metal was known as [The Great Forge] of [Ryyndal].
+
+
+------------------------
+
++++Related Pages: 
+
+
+{this page links from}
+[:rel:parents;aslist] 
+
+{this page links to}
+[:rel:children;aslist;existingonly]
