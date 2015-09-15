@@ -33,5 +33,6 @@ Mk- "When push comes to shove, I can always find some huge gap in the fundementa
 ==== Modular Univeral Elements ====
 	**For when you want things to really get crazy** with your world, there has been some logic included that allows for elements in the universe to be fundementally different without catastrophic consequences for the worlds you want to play in. Many issues that would otherwise destroy our known universe are handled in a local fashion. Meaning that there is no cascade of indirect consequences that are not specifically designed by the author of the world. The descriptions of each of the modules details the likelyhood of what would happen if that particular option was chosen. It can be just a suggestion or an adherance. Alternately, these options can be handed down to players of a game or members of a collaborative group and processed seperately to add to the complexity of the overall schema. 
 
+Content end.
 
 
