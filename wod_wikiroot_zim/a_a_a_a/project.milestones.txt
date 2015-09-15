@@ -5,4 +5,5 @@ Creation-Date: 2015-09-13T23:32:56-04:00
 ====== project.milestones ======
 Created Sunday 13 September 2015
 
-ujhiujh
+TODO:
+[ ] Complete first three [[project.issues]] 

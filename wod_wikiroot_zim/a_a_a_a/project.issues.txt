@@ -23,9 +23,9 @@ Created Sunday 13 September 2015
 
 
  [TODO]:
-[ ] Headers are still mostly incorrect markdown
-[ ] pages are not linked to each other yet
-[ ] formatting broken from incompatible markdown
+[ ] **Headers are still mostly incorrect markdown**
+[ ] **pages are not linked to each other yet**
+[ ] **formatting broken from incompatible markdown**
 [ ] Still some legacy errors where "yy" and "nn" conflict with each other
 [ ] Number of "Lords of Trivault" has errors in several places
 [ ] Double check conflicts of PRECIPITANT and LORDS OF TRIVAULT
