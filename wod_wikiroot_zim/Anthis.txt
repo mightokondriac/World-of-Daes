@@ -2,7 +2,8 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2015-09-13T19:05:59-04:00
 
-++ Anthis
+====== Anthis ======
+@anthis @odem @sishion @water
 
 Metal: Sishion
 Effect/Affinity: Water
