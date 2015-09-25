@@ -2,14 +2,14 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2015-09-13T19:32:40-04:00
 
-++ Clamorstone Accounts
+====== Clamorstone Accounts ======
 [alias: The Clamorstone Accounts; Kairnstone Accounts; The Kairnstone Accounts]
 [storylines.shorts: Of the Kiim Nations]
 [storylines.series: Clamorstone Accounts]
 
-read [notes.Clamorstone Accounts] for the details and developments.
+read [[[notes.Clamorstone Accounts]]] for the details and developments.
 
-+++Provenance
+===== Provenance =====
 The Clamorstone Series is a collection of short stories revolving around a curious place named Clamorstone, as it known to the [Kiim] races. The “Kiim” is a name given to all diminutive creatures of Godorand, one of the primary land masses of Daes. This particular series focuses on the following races and societies:
 	[Cobalt Ants] (Enslaved Hive Society)
 	The primary ancestral race of Clamorstone. The Mantreas took over the "crown" of the Cobalt Ants in the [Second Age] of the Standard Reckoning. Since then the Cobalt Ants have become a subsociety of the Cobalt Mantes.
@@ -18,7 +18,8 @@ The Clamorstone Series is a collection of short stories revolving around a curio
 	[Hoonah Wasps] (Networked Hive Society)
 	The Hoonah Wasps are power hungry military society that have thrived in the Thrushbloom Whicker(a hearty shrubbry) near the shores of (some place).
 
-+++Exordium
+
+===== Exordium =====
 In the days before tombs and books filled with legendary tales, there were some who could remember everything they had ever seen or been taught. This precious memory would pass down to their offspring through a power devised by the Great Odem [Kam]. Developing over time those who had vast unwritten knowledge, the bloodlines became a true chronicle of the world,  and their knowledge was sought after by many. They were known as the “[Scribea]”.
 There was a Scribe family known as the [Fiaine]. Of the three families of the [Kamwell Powers], deriving solely from the [Well of Dawns], the Fiaine lasted the longest. The [Thornskin Fiaine] (A rare and distant relative to common Longbreasted Blue Chameleons) held a silent vigilance for the doings of the Kiim world, for they claimed that “All the doings of the Kiim ring with the presence of the [Odem]. In them, the creatures of the world could find resonance, and discover the pattern of life and the secrets of all the functions of an unbreakable society...”.
 While the Fiaine favored recounting the favorable days of the Kiim, the potency and the universality of the chronicles never the less lead to great epics emerging in the world of the Adrenn(as the [Hi_stos], or humans, are known to the Kiim).
@@ -28,12 +29,12 @@ In the society of the Mantis and Cobalt Ants, who were the ancient residents of 
 
 These are some of their accounts.
 
-+++First Account
+==== First Account ====
 Part One: Imna at the Whispers
 
 Part Two: Imna at Kenidda
 part two text
 
-+++Second Account
+==== Second Account ====
 Part One: Mei at the foot of Vvereh
 Part One Text
