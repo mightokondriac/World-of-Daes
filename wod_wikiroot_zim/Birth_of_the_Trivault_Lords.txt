@@ -3,7 +3,7 @@ Wiki-Format: zim 0.4
 Creation-Date: 2015-09-13T19:06:26-04:00
 
 ====== Birth of the Trivault Lords ======
-@origins @core @chronicles @ofthegods @LordsOfTrivault @trivault @LanstamGroup
+@origins @chronicles @LordsOfTrivault @trivault @LanstamGroup
 @FornaasListuary @KuptraFiaine @Fiaine @1stAge @FirstAge @precipitant 
 @BrothersOfMetal
 
