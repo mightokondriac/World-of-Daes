@@ -2,17 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2015-09-13T21:32:25-04:00
 
-++ Godorand
-
+====== Godorand ======
+@primary @continent 
 The primary continent of Daes.
 
-------------------------
-
-+++Related Pages: 
-
-
-{this page links from}
-[:rel:parents;aslist] 
-
-{this page links to}
-[:rel:children;aslist;existingonly]
