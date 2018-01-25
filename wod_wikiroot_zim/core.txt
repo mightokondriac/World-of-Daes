@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-01-24T20:16:08-05:00
+
+====== core ======
+Created Wednesday 24 January 2018
+@core @worlddata
+
+
+@Article : a filing of data that can be from any perspective
+@Node : an incomplete Article or idea.
+@Core : information related to this wiki system and its related structure
+* This will need to be refined. Originally Core was a linkage to "Core" information to the primary background story elements.
+
+@ChronData : a record of events/thoughts that was interpereted by one or more sentient beings
+@WorldData : a record of events as percieved from a "creator" perspective. 
+
+@Shortvol : a collection of short story-form chronicles
+@Libvol : a collection of World Data Articles

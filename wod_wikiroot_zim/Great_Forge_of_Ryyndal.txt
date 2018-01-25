@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2015-09-13T21:32:46-04:00
 
-++ Great Forge of Ryyndal
-[Core.Locations: Origins]
-[Core.Concepts: Origins]
-[Edit.Critical: Locations]
+====== Great Forge of Ryyndal ======
+@location @core @origins @edit
+
+Where the Lords of trivault were created by the Brothers of Metal, in accordance with the will and desire of the Odem.

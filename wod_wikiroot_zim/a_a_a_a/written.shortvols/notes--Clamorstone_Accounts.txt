@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2015-09-13T21:56:22-04:00
 
-====== notes.Clamorstone Accounts ======
+====== notes--Clamorstone Accounts ======
 Working notes for the Clamorstone Accounts short series.
 
 ===== Banis Trench Account Branches =====
@@ -43,6 +43,7 @@ Working notes for the Clamorstone Accounts short series.
 	Head of the scouts of the Southern Whispers near the Kairmount site (Clamorstone).
 	
 	
+
 ==== Accounts of the Jashek Mercenaries (or Stalkers) ====
 	Keko h_Votro (clear branch)
 	A deadly assassin bug.
@@ -50,6 +51,7 @@ Working notes for the Clamorstone Accounts short series.
 	aka "fenmrebafi" (brought tail) as in "always has his tail between his legs"
 	a fast pickpocket, and a sly con artist but with a tendency to run at the slightest hint of losing the edge.
 	
+
 ==== Second-Hand Accounts of Cobalt Mantes ====
 	none currently
 
@@ -61,9 +63,11 @@ Working notes for the Clamorstone Accounts short series.
 ==== Development ====
 	The Mothers Maidens(parasitic ants that were used as a cologne or dope to trick the Cobalt Ants into taking care of them and ultimately the power structure being supplanted by them) were introduced to the Cobalt Hive in the early Second Age (of the Hi_stos reckoning). The Maidens were a strange, feeble ant that could not take care of themselves and needed constant attention or they would quite literally die from lack of attention. The Cobalt Ants could not help themselves but to assist in the pampering of these Maidens and their “Mother”. A few quiet generations later, several Mantids from the south came and infiltrated the Hive, took the Maiden Mother stole her away for a long time. None of the reports after that point were very clear about what exactly happened.
 
+
 ==== Persistent ====
-	The content of the reports was deemed false almost in its entirety by the Lanstam Group of the Fornaas Listuary of Lyyndrinas. It was in their commentary considered “A crude reprisal on name and deeds of a noble hive.”. Implying that the Mantes Society had already begun work to dislodge themselves from any documentation that might contain their by the end of the Second Age.
+	The content of the reports was deemed false almost in its entirety by the Lanstam Group of the Fornaas Listuary of Lyyndrinas. It was in their commentary considered “A crude reprisal on name and deeds of a noble hive.”. Implying that the Mantes Society had already begun work to dislodge themselves from any documentation that might contain their influence by the end of the Second Age.
 	
+
 ===== The Cobalt Mantes =====
 	aka The Mantreas or Mantreans
 	

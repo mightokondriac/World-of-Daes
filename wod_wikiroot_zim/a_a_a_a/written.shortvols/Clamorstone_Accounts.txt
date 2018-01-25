@@ -3,11 +3,13 @@ Wiki-Format: zim 0.4
 Creation-Date: 2015-09-13T19:32:40-04:00
 
 ====== Clamorstone Accounts ======
+@article @shortvol @kiim
+
 [alias: The Clamorstone Accounts; Kairnstone Accounts; The Kairnstone Accounts]
 [storylines.shorts: Of the Kiim Nations]
 [storylines.series: Clamorstone Accounts]
 
-read [[[notes.Clamorstone Accounts]]] for the details and developments.
+read [[[notes--Clamorstone Accounts]]] for the details and developments.
 
 ===== Provenance =====
 The Clamorstone Series is a collection of short stories revolving around a curious place named Clamorstone, as it known to the [Kiim] races. The “Kiim” is a name given to all diminutive creatures of Godorand, one of the primary land masses of Daes. This particular series focuses on the following races and societies:
@@ -31,9 +33,10 @@ These are some of their accounts.
 
 ==== First Account ====
 Part One: Imna at the Whispers
+Part One text
 
 Part Two: Imna at Kenidda
-part two text
+Part two text
 
 ==== Second Account ====
 Part One: Mei at the foot of Vvereh

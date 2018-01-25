@@ -1,8 +1,11 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
-Creation-Date: 2015-09-13T23:37:18-04:00
+Creation-Date: 2018-01-22T21:13:38-05:00
 
 ====== written.shortvols ======
-Created Sunday 13 September 2015
+Created Monday 22 January 2018
+@chronicle @shortvol @core
 
-volumes of micros turned into short stories
+==== volumes of short story-form chronicles ====
+
+

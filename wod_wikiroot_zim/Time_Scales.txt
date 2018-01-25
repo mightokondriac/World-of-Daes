@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-01-22T22:03:07-05:00
+
+====== Time Scales ======
+Created Monday 22 January 2018
+@shortvol @article @time @elements
+
+==== See Also ====
+* [[Segmented Time Gradients]]
+
+
+===== Time scales of the world =====
+Each major division of the elements of the world progress at different speeds and as it is recorded in the chronicles of the ancient ones, these are there respected scales. 
+
+==== Sun ====
+* 1 Sun Day is 24 Marked Hours
+* 1 Sun Year is 365.2 Passages of the Sun.
+
+==== Stone ====
+* 1 Stone Day = 3 Sun Days
+* 1 Stone Year is 3 Sun Years
+
+==== Water ====
+* 1 Water Day = 5 Sun Days
+* 1 Water Year is 5 Sun Years
+
+==== Air ====
+* 1 Air Day = 1/2 Sun Day
+* 2 Air Years is 1 Sun Year
+
+==== Ice ====
+* 1 Ice Day = 50 Sun Days
+* 4 Ice Years is 200 Sun Years
+
+==== Metal ====
+* 1 Metal Day = 1,111 Sun Days
+* 8 Metal Years = 8,888 Sun Years).

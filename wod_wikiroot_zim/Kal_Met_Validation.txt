@@ -2,7 +2,10 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2015-09-13T21:34:02-04:00
 
-++ Kal_Met Validation
-(read more about the [Kal_Met])
-Held every 5 years, the Kal_Met Validation is one of the only known ceremonies to have survived the the ancient days. While the early "Validations" were held by members from around the globe, and has since waned in its overall effectiveness, many still travel across the continent to attend.
-The nature of the discourse within the Kal_Met Validation is somewhat of a dry subject. However, if it were not for the periodical meeting, many races of Godorand would lose touch with each other entirely. The Kiim Nations have many council members. Some of which are on the "Isch Groles"("All Protect" - known more commonly to the Kiim as Treschisch - All-shell); A leading counsil in citizen rights protection, specifically when it comes to speaking at the "Point"(the seven days before the "Conscriptions of Empirical and Substantially Varified Evidence" -or "Varification"), when the average citizen can have a chance to present evidence for the council for inclusion into the "Kal_Met".
+====== Kal Met Validation ======
+@article @historical @kiim 
+(read more about the Kal Met
+
+Held every 5 years, the Kal Met Validation is one of the only known ceremonies to have survived the the ancient days. While the early "Validations" were held by members from around the globe, and has since waned in its overall effectiveness, many still travel across the continent to attend.
+
+The nature of the discourse within the Kal Met Validation is somewhat of a dry subject. However, if it were not for the periodical meeting, many races of Godorand would lose touch with each other entirely. The Kiim Nations have many council members. Some of which are on the "[[Isch Groles]]"("All Protect" - known more commonly to the Kiim as Treschisch - All-shell); A leading counsil in citizen rights protection, specifically when it comes to speaking at the "Point"(the seven days before the "Conscriptions of Empirical and Substantially Varified Evidence" -or "Varification"), when the average citizen can have a chance to present evidence for the council for inclusion into the "Kal_Met".

@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-01-24T20:13:11-05:00
+
+====== worlddata ======
+Created Wednesday 24 January 2018
+@worlddata @core
+
+World Data is information that is absolute information about the nature of how things work and is not an interpretation through a science or observation. This information is considered above the knowledge of all known data but is not exclusive in that regard.
