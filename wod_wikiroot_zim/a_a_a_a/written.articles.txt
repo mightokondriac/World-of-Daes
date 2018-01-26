@@ -4,5 +4,5 @@ Creation-Date: 2015-09-13T23:36:58-04:00
 
 ====== written.articles ======
 Created Sunday 13 September 2015
-
+@godposition @worlddata @historical 
 article stuff

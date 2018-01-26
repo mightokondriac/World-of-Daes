@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-09-25T19:50:41-04:00
+
+====== metal.silver.description ======
+Created Friday 25 September 2015
+
+@worldcomponent @metal @silver @moon @byalinn @odempower @odem
+
+===== Appearance =====
+	Appearance Text
+
+===== General Influences =====
+	Influence Text
+.. read [[metal.silver.effect|Effect]] Page for more information on the specific details of effects per situation.

@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-01-23T00:26:21-05:00
+
+====== Balasindra ======
+Created Tuesday 23 January 2018
+@location @mountainrange @historical @article
+
+{{~\Desktop\_Writing\daes\themagicwells\maps\mountains\balasindra_mnts.png}}

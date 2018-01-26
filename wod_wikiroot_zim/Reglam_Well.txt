@@ -2,6 +2,9 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2015-09-13T21:59:28-04:00
 
-++ Reglam Well
-[Core.Locations: Great Wells]
-[Edit.Critical: Locations]
+====== Reglam Well ======
+@core @article @historical @trivault
+
+Also known as the Great Well, for this was were the Lords of Trivault were first "born" into the world with the skill and power of the combined forces of the Brothers of Metal and the Sisters of Stone. The Reglam Well is also known as Ryyndal's Well, and Trivault Well, depending on who you talk to.
+
+

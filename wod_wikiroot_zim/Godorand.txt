@@ -2,17 +2,9 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2015-09-13T21:32:25-04:00
 
-++ Godorand
+====== Godorand ======
+@chrondata @worlddata @node @chronicle @3rdage @godorand @landmass
 
 The primary continent of Daes.
 
-------------------------
-
-+++Related Pages: 
-
-
-{this page links from}
-[:rel:parents;aslist] 
-
-{this page links to}
-[:rel:children;aslist;existingonly]
+Established as the colonies of Sekor, Godor, Medrit and Yeshimin in the 3rd age of the common recolection. Over the next age the landscape changed drastically from large unmarked swathes of land, all functioning together as groups with understanding, to smaller tribes and races clammoring for power.  In the wake of the Patterns of the Odem being disrupted by treachery of [[Screegund]] the False Lord of Trivault.

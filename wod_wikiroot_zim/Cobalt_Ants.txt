@@ -2,8 +2,9 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2015-09-13T19:32:52-04:00
 
-++ Cobalt Ants
-[storylines.series: Clamorstone Accounts]
+====== Cobalt Ants ======
+@shortvol @chrondata @node 
+see [[a a a a:written.shortvols:Clamorstone Accounts|Clamorstone Accounts]]
 
 (Enslaved Hive Society)
 	The primary ancestral race of Clamorstone. The Mantreas took over the "crown" of the Cobalt Ants in the [Second Age] of the Standard Reckoning. Since then the Cobalt Ants have become a subsociety of the Cobalt Mantes.

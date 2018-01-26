@@ -2,21 +2,11 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2015-09-13T22:07:07-04:00
 
-++ The Sisters of Stone
-[alias: Daughters of Water; Well Sisters; Sisters of Stone]
+====== The Sisters of Stone ======
+@precipitant @core @origins @edit
 
-[Core.Concepts: Origins]
-[Core.Entities: Precipitant]
-[Edit.Critical: Entities]
-see - [Brothers of Metal]
-The creators of the wells.
-------------------------
+alias: Daughters of Water; Well Sisters
 
-+++Related Pages: 
+also see - [[Brothers of Metal]]
 
-
-{this page links from}
-[:rel:parents;aslist] 
-
-{this page links to}
-[:rel:children;aslist;existingonly]
+The Sisters of Stone were the creators of the wells.

@@ -2,8 +2,9 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2015-09-13T21:58:37-04:00
 
-++ Oured
-[Core.Locations: Origins]
-[Edit.Critical: Locations]
+====== Oured ======
+@location @origins @node @worlddata
 
-The Void where the endless water of the [Great Wells] eventually ceases.
+The Void where the endless water of the Great [[Wells]] are all interconnected in an alternate demensional space. 
+This network was created to prevent corruption of the waters coming from these wells. Certain safeguards were put in place to ensure the safety and longevity of the wells and their lifegiving water. The safeguards on the water was not enough, however, the wells themselves needed to be protected as well.
+In an effort to create a semi-sentient well head, it was given the command to self assemble into the most efficient and effective defence structure necissary for the protection of the well. Many never responded but were never truly in any danger. There was a few wells that produced what was called the [[Ade Mog]].

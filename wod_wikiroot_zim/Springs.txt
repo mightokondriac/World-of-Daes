@@ -2,23 +2,8 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2015-09-13T22:04:26-04:00
 
-++ Springs
-[Core.Concepts: Origins]
-[Core.Locations: Origins]
-
-see [Wells].
+====== Springs ======
+@node @worlddata @wells @origins
+see [[Wells]]
 
 Several of the original Great Wells were destroyed over time. These places still produce flowing spring water and have an effect on the local populations. However, the well tamed much of the power. Some creatures will have no known power, others will have such ferocious power that controlling themselves can prove to be impossible.
-
-see [Metal Exposure]
-
-------------------------
-
-+++Related Pages: 
-
-
-{this page links from}
-[:rel:parents;aslist] 
-
-{this page links to}
-[:rel:children;aslist;existingonly]

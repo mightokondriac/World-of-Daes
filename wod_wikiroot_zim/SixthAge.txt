@@ -2,5 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2015-09-13T22:03:55-04:00
 
-++Sixth Age
-[alias: 6th Age; Sixth Age]
+====== Sixth Age ======
+@6thAge @SixthAge @timescale
+
+

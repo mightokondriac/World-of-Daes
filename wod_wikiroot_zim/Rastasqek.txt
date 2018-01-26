@@ -2,6 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2015-09-13T21:59:12-04:00
 
-++ Rastasqek
+====== Rastasqek ======
+
 [Core.Entities: Lords of Trivault]
 [Edit.Critical: Entities]
