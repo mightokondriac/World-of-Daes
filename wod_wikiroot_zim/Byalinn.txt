@@ -3,6 +3,7 @@ Wiki-Format: zim 0.4
 Creation-Date: 2015-09-13T19:32:27-04:00
 
 ====== Byalinn ======
+@odem @origins @byalinn @node @worlddata
 
 Metal: [[metal.silver.description|Silver]]
 Effect/Affinity: [[metal.silver.effect|Moon]]

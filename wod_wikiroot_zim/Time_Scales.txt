@@ -4,11 +4,24 @@ Creation-Date: 2018-01-22T22:03:07-05:00
 
 ====== Time Scales ======
 Created Monday 22 January 2018
-@shortvol @article @time @elements
+@shortvol @article @timescales @stg @worlddata
+
 
 ==== See Also ====
 * [[Segmented Time Gradients]]
 
+===== Timelines =====
+{{~\Desktop\_Writing\daes\_srcimgs\Timeline Themes - Abstract.png?width=325}}
+From Generated Segmented Time Gradient 
+
+=== By Theme ===
+(Covers ambiguous amounts of time, or as collections of Ages, Years, or Reigns)
+
+=== By Known Reconing ===
+_{of particular culture(s):}
+	* By Age
+	* By Year
+	* By Reign
 
 ===== Time scales of the world =====
 Each major division of the elements of the world progress at different speeds and as it is recorded in the chronicles of the ancient ones, these are there respected scales. 

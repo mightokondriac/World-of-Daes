@@ -10,7 +10,7 @@ Creation-Date: 2015-09-13T22:05:07-04:00
 ===== Legends of the First Children =====
 
 ==== The Lords of Trivault ====
-Read more about the [Lords of Trivault]
+Read more about the [[[Lords of Trivault]]]
 	. [[[Legends of Tritavas]]]
 	. [[[Legends of Sirviirtoch]]]
 	. [[[Legends of Ruajaesviera]]] (Raclem Eviticacha)

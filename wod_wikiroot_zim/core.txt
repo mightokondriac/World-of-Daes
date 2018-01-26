@@ -7,8 +7,8 @@ Created Wednesday 24 January 2018
 @core @worlddata
 
 
-@Article : a filing of data that can be from any perspective
-@Node : an incomplete Article or idea.
+@Article : a filing of complete or near complete data that can be from any perspective
+@Node : an incomplete Article or idea that is trying to be an @article.
 @Core : information related to this wiki system and its related structure
 * This will need to be refined. Originally Core was a linkage to "Core" information to the primary background story elements.
 

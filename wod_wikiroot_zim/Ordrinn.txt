@@ -2,7 +2,8 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2015-09-13T21:58:22-04:00
 
-++ Ordrinn
+====== Ordrinn ======
+@odem @origins @worlddata @article
 
 Metal: Eilon
 Effect/Affinity: Star

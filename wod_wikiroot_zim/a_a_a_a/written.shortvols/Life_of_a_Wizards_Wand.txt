@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-01-24T23:40:37-05:00
+
+====== Life of a Wizards Wand ======
+Created Wednesday 24 January 2018
+see also ( [[notes--Life of a Wizards Wand]] )
+This shortvol follows the a wand that is tumbling down the side of a mountain. Every time the wand bounces off of something a seemingly random spell is cast out into the surrounding world. Each short story is one of the bounces. Each story in the succesion will have to include elements from the previous stories.
+
+

@@ -3,8 +3,8 @@ Wiki-Format: zim 0.4
 Creation-Date: 2015-09-13T23:21:14-04:00
 
 ====== a a a a ======
+@core @index
 Created Sunday 13 September 2015
-[[a a a a]]
 
 ===== This is a root page for the Alphabetical Index Sidebar. =====
 
@@ -12,8 +12,8 @@ Created Sunday 13 September 2015
 [[+project.issues]]
 [[+written.novels]]
 [[+written.shortvols]]
-[[+written.micros]]
-[[+written.micros:Contemplations of Crenshaw]]
++written.micros
+[[+written.shortvols:Contemplations of Crenshaw]]
 [[+written.articles]]
 [[Storylines]]
 [[Time Scales]]

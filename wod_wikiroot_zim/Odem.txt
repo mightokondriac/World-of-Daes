@@ -3,9 +3,8 @@ Wiki-Format: zim 0.4
 Creation-Date: 2015-09-13T21:57:05-04:00
 
 ====== Odem ======
-@Core @Concepts @Origins
-
-@CRITICALEDITS @Historical
+@odem @origins @article @worlddata
+(The [[Odem]]: [[The Tesdema]], [[The Indema]], The [[Meardema]])
 
 ===== The Odem Introduction =====
 

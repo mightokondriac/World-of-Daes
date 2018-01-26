@@ -3,14 +3,15 @@ Wiki-Format: zim 0.4
 Creation-Date: 2015-09-13T22:06:39-04:00
 
 ====== The Indema ======
-@odem @indema @core @list
+@odem @indema @node @worlddata 
+(The [[Odem]]: [[The Tesdema]], [[The Indema]], The [[Meardema]])
 
-The rest of the spirits that followed after the forming of worlds. 
+The rest of the spirits that followed **after** the forming of worlds. 
 
-[[Umbalinn]]
-[[Byalinn]]
-[[Ordrinn]]
-[[Meark]]
-[[Klanik]]
-[[Loffin]]
-[[Crinn]]
+1. [[Umbalinn]]
+2. [[Byalinn]]
+3. [[Ordrinn]]
+4. [[Meark]]
+5. [[Klanik]]
+6. [[Loffin]]
+7. [[Crinn]]
