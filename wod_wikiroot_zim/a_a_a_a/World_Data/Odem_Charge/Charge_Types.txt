@@ -1,0 +1,419 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-01-04T20:47:08-05:00
+
+====== Charge Types ======
+@odemcharge @triggertype @worlddata @odem 
+
+Created Tuesday 04 January 2022
+The abilities that are passed down in various forms and degrees to any living creature. Each Odem has a metal or metals(see Meark) associated with them and each of those metals have an ability associated with them. The following are the abilities from those metals.
+
+===== Triggered Odem Charge Effects =====
+^{Associated with [[Trigger Types]]}
+
+==== Sun ====
+	Primary Odem: [[Muwinn]]
+	Assoc. Metal: Gold
+
+Effect Description
+
+Genetic
+In darkness, a nearly blinding light can shine forth from the crown area. The exact source is impossible to ascertain. The rays of light are healing, can carry information, sustain natural environments, and are rather warm. In great numbers, the collective brilliance can blind anything looking at the totality. In groups the healing attribute of the light is magnified into a complete emotional and spiritual healing as well as physical. A non-Sun creature within the radius of the rays receives this healing(the experience can be so intense that in some creatures the mind will fall asleep to allow the body, mind and heart to heal. If the creature fights this sleep, the healing will not take effect)
+
+Raw Ore
+Will shower bright sparks when struck. If worn or held during sleep it will offer restful sleep filled with dreams of sunny days and warm safety.
+
+Smelted
+Enhanced vision for a limited time; When held or worn for an extended amount of time, the holder will have the ability to see the living entity of intelligent metals.
+
+Alloyed
+Imbues the alloy with a slight ghostly glow. A slight increase in visual perception when held.  
+
+Worked
+Creates a chance of a spark so bright when the metal is being worked that it can draw in the soul of a curious entity. This soul can then remain in the worked piece for as long as the object is still intact. This item will be able to communicate with anyone that holds it. However, any creature of suitable intelligence holding it will be able to confer perfectly and flawlessly with the entity. 
+
+Joined
+Prolonged connection allows for roaming sight amongst all who are rightly connected through blood or ceremony to Muwinn. Additionally, sustained vision of the living entity of metal.
+
+
+==== Moon ====
+	Primary Odem: [[Byalinn]]
+	Assoc. Metal: Silver
+
+Effect Description
+
+Genetic
+Only Visible in Moonlight. Greatly enhanced sight when any moonlight is shining. Plants and animals that are affected by the full moon tend to be drawn to someone with a high share of Moon. Creatures on the astral plane are faintly visible at night during a full moon.
+
+Raw Ore
+Attraction to nearby open water when held. When worn by the heart, the light of the moon shines a little brighter around the wearer. 
+
+Smelted
+Holder gains a dim aura in like fashion to the moon, at night, regardless of moon phase.
+
+Alloyed
+
+Worked
+
+Joined
+Prolonged connection allows for invisibility during daytime. Byalinn demands all connected must bath in open water at full moon without question. 
+
+==== Star ====
+	Primary Odem: 
+	Assoc. Metal: 
+
+Effect Description
+
+Genetic
+
+Raw Ore
+
+Smelted
+
+Alloyed
+
+Worked
+
+Joined
+
+==== Stone ====
+	Primary Odem: 
+	Assoc. Metal: 
+
+Effect Description
+
+Genetic
+
+Raw Ore
+
+Smelted
+
+Alloyed
+
+Worked
+
+Joined
+
+==== Fire ====
+	Primary Odem: 
+	Assoc. Metal: 
+
+Effect Description
+
+Genetic
+
+Raw Ore
+
+Smelted
+
+Alloyed
+
+Worked
+
+Joined
+
+==== Water ====
+	Primary Odem: 
+	Assoc. Metal: 
+
+Effect Description
+
+Genetic
+
+Raw Ore
+
+Smelted
+
+Alloyed
+
+Worked
+
+Joined
+
+==== Blade ====
+	Primary Odem: 
+	Assoc. Metal: 
+
+Effect Description
+
+Genetic
+
+Raw Ore
+
+Smelted
+
+Alloyed
+
+Worked
+
+Joined
+
+==== Night ====
+	Primary Odem: 
+	Assoc. Metal: 
+
+Effect Description
+
+Genetic
+
+Raw Ore
+
+Smelted
+
+Alloyed
+
+Worked
+
+Joined
+
+==== Shock ====
+	Primary Odem: 
+	Assoc. Metal: 
+
+Effect Description
+
+Genetic
+
+Raw Ore
+
+Smelted
+
+Alloyed
+
+Worked
+
+Joined
+
+==== Tremor ====
+	Primary Odem: 
+	Assoc. Metal: 
+
+Effect Description
+
+Genetic
+
+Raw Ore
+
+Smelted
+
+Alloyed
+
+Worked
+
+Joined
+
+==== Coral ====
+	Primary Odem: 
+	Assoc. Metal: 
+
+Effect Description
+
+Genetic
+
+Raw Ore
+
+Smelted
+
+Alloyed
+
+Worked
+
+Joined
+
+==== Hammer ====
+	Primary Odem: 
+	Assoc. Metal: 
+
+Effect Description
+
+Genetic
+
+Raw Ore
+
+Smelted
+
+Alloyed
+
+Worked
+
+Joined
+
+==== Binary ====
+	Primary Odem: 
+	Assoc. Metal: 
+
+Effect Description
+
+Genetic
+
+Raw Ore
+
+Smelted
+
+Alloyed
+
+Worked
+
+Joined
+
+==== Thorn ====
+	Primary Odem: 
+	Assoc. Metal: 
+
+Effect Description
+
+Genetic
+
+Raw Ore
+
+Smelted
+
+Alloyed
+
+Worked
+
+Joined
+
+==== Nova ====
+	Primary Odem: 
+	Assoc. Metal: 
+
+Effect Description
+
+Genetic
+
+Raw Ore
+
+Smelted
+
+Alloyed
+
+Worked
+
+Joined
+
+==== Shift ====
+	Primary Odem: 
+	Assoc. Metal: 
+
+Effect Description
+
+Genetic
+
+Raw Ore
+
+Smelted
+
+Alloyed
+
+Worked
+
+Joined
+
+==== Wind ====
+	Primary Odem: 
+	Assoc. Metal: 
+
+Effect Description
+
+Genetic
+
+Raw Ore
+
+Smelted
+
+Alloyed
+
+Worked
+
+Joined
+
+==== Clay ====
+	Primary Odem: 
+	Assoc. Metal: 
+
+Effect Description
+
+Genetic
+
+Raw Ore
+
+Smelted
+
+Alloyed
+
+Worked
+
+Joined
+
+==== Hydriac ====
+	Primary Odem: 
+	Assoc. Metal: 
+
+Effect Description
+
+Genetic
+
+Raw Ore
+
+Smelted
+
+Alloyed
+
+Worked
+
+Joined
+
+==== Dagger ====
+	Primary Odem: 
+	Assoc. Metal: 
+
+Effect Description
+
+Genetic
+
+Raw Ore
+
+Smelted
+
+Alloyed
+
+Worked
+
+Joined
+
+==== Pheonix ====
+	Primary Odem: 
+	Assoc. Metal: 
+
+Effect Description
+
+Genetic
+
+Raw Ore
+
+Smelted
+
+Alloyed
+
+Worked
+
+Joined
+
+==== Invert ====
+	Primary Odem: 
+	Assoc. Metal: 
+
+Effect Description
+
+Genetic
+
+Raw Ore
+
+Smelted
+
+Alloyed
+
+Worked
+
+Joined

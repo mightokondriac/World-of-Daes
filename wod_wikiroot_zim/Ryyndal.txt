@@ -2,7 +2,8 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2015-09-13T22:00:50-04:00
 
-++ Ryyndal
+====== Ryyndal ======
+@odem @origins @node @worlddata
 
 Metal: Helepion
 Effect/Affinity: Fire

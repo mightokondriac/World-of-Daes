@@ -2,18 +2,20 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2015-09-13T22:01:59-04:00
 
-++ Screegund
-[Core.Entities: Lords of Trivault]
-[Edit.Critical: Entities]
+====== Screegund ======
+@lordoftrivault @screegund @falseodem @node @worlddata
 
 The Scorpion Lord(or crab lord) - One of the Lords of Trivault
-creator of the divergent wing, bringer of the Salt Smiter.
+creator of the divergent wing, bringer of the [[Salt Smiter]].
+the crab god that manifests through a trickery in the way [[Meark]] introduced new elements expressed as the [[Mirodem]]
 
-Legends of Screegund
-These need to be written.
-
-Description
 Screegund was born and died in the bosom of the Great Wing Mountains. The Northern Wing Mountains are said to house the location of Screegund_s burial mound.
 
 Birth of Screegund
 This needs to be written
+
+
+
+Legends of Screegund
+These need to be written.
+

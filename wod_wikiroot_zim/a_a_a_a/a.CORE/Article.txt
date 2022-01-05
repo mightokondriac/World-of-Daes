@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2018-01-26T23:25:08-05:00
+
+====== Article ======
+Created Friday 26 January 2018
+@article @node @core 
+
+An article is a completed or near complete idea. Compared to a @node (see [[a a a a:a.Core:Node]]) filing, an article can actually guide the reader in some way and is not mostly still in the mind of the writer. 

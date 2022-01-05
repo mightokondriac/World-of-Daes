@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2015-09-13T21:57:25-04:00
+
+====== Odem Charge ======
+@odem @node @worlddata @share @odemcharge @triggertype 
+
+The Charge is the level(Share) at which a beging is infused with the spirit of the divine metals.
+
+[[+Trigger Types|Trigger Types]]
+^{When a creature has enough share of the Odem Charge, they will manifest their abilities when triggered in a certain way. This triggering can happen each time the required element is satisfied, or it can trigger a permanent Activation of the ability. The following are the types of triggers that can draw out the magic of a Charged creature.}
+
+[[+Charge Types|Charge Types]]
+

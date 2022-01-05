@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2015-09-13T23:31:46-04:00
+
+====== Project Goals ======
+Created Sunday 13 September 2015
+
+===== The goals of this project are broad. =====
+There are many fascets and many phases to progress through if everything goes as planned. As in every large project **there needs to be a team.** For a long time(about 20 years) this project has been worked on by only one person: MK(Seth Irving). Over the years, this world has developed and grown into something far greater than just a playable game or a few stories. The concepts behind this project are manifold. **At the beginning, the depth of the world will be paramount**. After that the various products can be drawn from it and harnessed by the underlying structure that is universal in scale and modularity. 
+
+===== A little History.. =====
+It started out as a Advanced Dungeons & Dragons game between brothers, cousins and great friends. Even after the games ended and the players moved apart, the maps grew and got better, the stories got longer and more in depth. Tens of characters turned into hundreds of characters, and a handfull of gods became many. The powers and abilities that came from this combination of efforts soon became so large and verbose that only bits and pieces of it could be managed at a time. This concept gave birth to the "World of Daes Project". Originally named "Realms of Godorand", this beast then reared its head and revealed that the landmass of Godorand was not enough to be a whole planet. Several continents were added and have not been touched in the slightest since. Their design and location are assigned but nothing else. It was enough to fill Godorand for now.
+
+==== Weighing the beans.. ====
+	Maps were not complete but were looking detailed enough to create a good base. The stories were a bit messy with some naming and a number here or there, but for the most part it was a skeleton world that could have marginal functioning for a game or series of client-published work with little to no problem. Essentially, the inspirational aspects were present and wide spread enough to leave me feeling unfinished but convinced that there was a deeper aspect that I should investigate.
+	
+
+==== Who created the gods? ====
+	 A great deal of the time spent on this project was not just coming up with names or writing some descriptions of weapons of great power or beasts of terrible destruction, it was spent decoding the nature of reality and compartmentalizing it over years and years of rehashing how to put names on things. Categories are a natural aspect of inputing data, and these categories have to have some sort of name to them. Having an effective understanding of how things relate to each other is how our brains work. It only makes sense that If we are trying to bring fantasy and universal structure together we end with gods. They are the top and nothing is beyond them(on this world). The gods in these scenarios are also concurrent with the earliest know event or occurance of anything in the universe, according to the "Earliest known reconing" by these gods or the creatures beholden to them(the populations) who would or could record these events in some way.
+
+
+===== Doing it right! =====
+Mk- "When push comes to shove, I can always find some huge gap in the fundemental concept behind the approach of the products being put forth by the major companies. Its never in the mechanics or the layout or the options availble in skill trees... Its always the storyline. Its always the world they are in. Many combinations of events and strata come from no where and lead to no where in the grand scheme of things in game play and written works. I always felt like these are lost gems, and to this day I still think about some of the quests and story lines that never happened. Some Game Masters spend days prepairing a scenario that goes nowhere. Some writers spend months on a character only to ditch them at the last minute because of symmetry issues. In the end its a hodge-podge with the most coherent and updated stuff at the front and old, possibly orphaned, stuff in the back. More often then not the oldest one is the world map and the fundemental aspects of why things are the way they are.
+
+==== Zero Limitations ====
+	Deep inside this world there is a set of variables that create the environment for anything. The way things are structured within the primary pantheon of gods and the attributes they pass on to the world offer an infinte amount of variation and a logic behind why its there. No longer will bad monsters have a requirement of only living in tunnels or at the highest peeks. The option is there of course, should you desire it, to create a world with basic logic.
+	
+
+==== Position Zero Observer ====
+	The structure of the universe is designed around a single omnipotent viewer. As apposed to a viewer that is below the pantheon of the gods of the "constructed world" being created, this position allows complete control over the flow of time and collation of events(pantheons and current stratum) . When a contributor wishes to make an addition in the timeline(collation of events), this can be done with confidence that the risk of harming timeline integrity is low.
+	
+
+==== Modular Univeral Elements ====
+	**For when you want things to really get crazy** with your world, there has been some logic included that allows for elements in the universe to be fundementally different without catastrophic consequences for the worlds you want to play in. Many issues that would otherwise destroy our known universe are handled in a local fashion. Meaning that there is no cascade of indirect consequences that are not specifically designed by the author of the world. The descriptions of each of the modules details the likelyhood of what would happen if that particular option was chosen. It can be just a suggestion or an adherance. Alternately, these options can be handed down to players of a game or members of a collaborative group and processed seperately to add to the complexity of the overall schema. 
+
+Content end.
+
+

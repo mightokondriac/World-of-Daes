@@ -2,6 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2015-09-13T19:34:02-04:00
 
-++ Diyesrel
+====== Diyesrel ======
+@metal @article @worlddata @odem 
 
-Toningiree - Hydriac Effect
+Influences metal known as [[Toningiree]] and produces the [[Hydriac Effect]]

@@ -2,22 +2,27 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2015-09-13T21:54:23-04:00
 
-++ Meardema
-[alias: Tears of Meark; The Tears of Meark; False Odem; Ev Moam]
+====== Meardema ======
+ @TearsofMeark @FalseOdem  @EvMoam
+@odem @origins @node @worlddata
+(The [[Odem]]: [[The Tesdema]], [[The Indema]], The [[Meardema]])
 
-	Still known as "Indema" but of the subgroup "Meardema" out of respect for Meark who alone created the following metals to be expressed by the rest of the Indema. They who inhabit them are known as "The Moam da_Meark", --"The Tears of Meark". The original gods did not expect Meark to alter their plans; the count of metals, which was the design of the original gods for the habitation of the Odem. This plan was resolute and in concordance with the design of the universe.
+	Still known as "Indema" but of the subgroup "Meardema" out of respect for Meark who alone created the following metals to be expressed by the rest of the Indema.
+
+1. [[Lesrel|L]][[esrel]]
+2. [[Ki mal]]
+3. [[Numis]]
+4. [[Aeorin]]
+5. [[Mahgrohl]]
+6. [[Wiar]]
+7. [[Umbanthis]]
+8. [[Diyesrel]]
+9. [[Dym]]
+10. [[Safryy]]
+	
+	 They who inhabit them are known as "The Moam da_Meark", --"The Tears of Meark". The original gods did not expect Meark to alter their plans; the count of metals, which was the design of the original gods for the habitation of the Odem. This plan was resolute and in concordance with the design of the universe.
 	Though this deviation was not intended or planned for; the original forces allowed unique alteration, as it was a product of the love and splendor of Meark_s yearning which was within the guidelines of their call. However, the forces knew to be careful for they did not know what entities would come. They developed a filter of sorts to reiterate the [One Law]. As an entity would come in, its thoughts and intent would be weighed against the current inhabitants and a space of council was developed at the firmament of the world, devoid of the trappings of time, to synchronize the new entities with the design. Although there were some that were utterly revoked; there were a few that were powerful and constructed the veil of their intent in a way as to disguise their true purpose. This was discovered many ages later and is the cause of the injection of the last Odem named [Nevrenis]. Nevrenis was sent to guard the minds of the new metals brought about by Meark, and all of their creations, to ensure the protection and abidance of the One Law; (abbrev)_"Love this World, and with that love, bring love into the minds of those you harbor"_.
 	What the Elder Gods, and in fact all of the Odem, discovered in the following ages was; Love is not always discernible from obsession, and the product of obsession is single-mindedness, which by most accounts can be seen as a form of love, albeit primarily imbued with ignorance.
     
 	The metal group that the Meardema are correlated with is referred to as "[Tegilixa]" (Tej ih LEE ya), literally "New Metals".
 
-[Lesrel]
-[Ki_mal]
-[Numis]
-[Aeorin]
-[Mahgrohl]
-[Wiar]
-[Umbanthis]
-[Diyesrel]
-[Dym]
-[Safryy]

@@ -2,45 +2,39 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2015-09-13T19:06:12-04:00
 
-++ Artifacts
-[alias: Artifact Lore]
+====== Artifacts ======
+@node @mixeddata @artifactlore @sogema @artificers @artifacts
 
-++The Hammer of Ev_Ryyndamas
-_Also known as "The Hammer That Needs No Forge", "The Hammer of a Thousand Fires", "The Thousand Fires Hammer", "Great Hammer of the Forge of Eternal Fires", "The Hand of Ryyndal"._
-read the full story of [The Thousand Fires Hammer].
+===== Ancient Artifacts from Pre-history =====
 
-++The Staves of Power
+==== The Hammer of EvRyyndamas ====
+//Also known as "The Hammer That Needs No Forge", "The Hammer of a Thousand Fires", "The Thousand Fires Hammer", "Great Hammer of the Forge of Eternal Fires", "The Hand of Ryyndal".//
+	read the full story of [[[The Thousand Fires Hammer]]].
 
-+++The Ten Fires Staff
+
+==== The Tear of Ninaddrah ====
+When Ninaddrah died in the Bitter Pass guarding Ev_Rynndamas and his hammer, her soul and all its energy formed into a crystal and embedded into EvRynndamas cheek and remained there and gave him the soul-sight to peer into the metals he worked and be witness to their movement and excitation.
+
+==== The Nevers Ring ====
+A ring made by a powerful force of combined magic to facilitate a mirror to watch and listen to "[The Nevers]"(aka [Nevrenis]). This ring was considered the single most dangerous artifact ever created as it violated directly the rules of the ancient gods; that none could ever espy the Nevers or know their position in the world unless the Nevers came to them in a dream, and even then this information would not be revealed by any direct means.
+
+
+===== The Staves of Power =====
+
+==== The Ten Fires Staff ====
 read the full story of [The Ten Fires Staff] - The Helepion Staff of Ryyndal
 
-++Scales of Goldborn
+
+
+
+===== Gifted Artifacts =====
+
+==== Scales of Goldborn ====
 The wingless wyrme, Goldborn ([Zo_mas]), is known to be the oldest of the [Sun Dragons]; born from the pool of the first creatures of Muwinn of the Sun. In the [First Age], 3 of his scales were gifted to the 3 greatest [[[Brothers of Metal]]] (original metallurgists) to create the mightiest of shields ever developed by the hands of mortals. 
 
-read the full story of [The Gifts of Zo_mas]
+read the full story of [[[The Gifts of ZoMas]]]
 
-read the full story of [The Scales of Zo_mas] 
-
-
-++The Nevers Ring
-read the full story of [The Gifts of Zo_mas]
-
-read the full story of [The Scales of Zo_mas] 
-
-A ring made by a powerful force of combined magic to facilitate a mirror to watch and listen to "[The Nevers]"(aka [Nevrenis]). This ring was considered the single most dangerous artifact ever created as it violated directly the rules of the ancient gods; that none could ever espy the Nevers or know their position in the world unless the Nevers came to them in a dream, and even then this information would not be revealed by the Nevers themselves.
-
-++The Tear of Ninaddrah
-
-When Ninaddrah died in the Bitter Pass guarding Ev_Rynndamas and his hammer, her soul and all its energy formed into a crystal and embedded into Ev_Rynndamas cheek and remained there and gave him the soul-sight to peer into the metals he worked and be witness to their movement and excitation.
+read the full story of [The Scales of Zo Mas] 
 
 
-------------------------
 
-+++Related Pages: 
-
-
-{this page links from}
-[:rel:parents;aslist] 
-
-{this page links to}
-[:rel:children;aslist;existingonly]

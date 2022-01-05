@@ -1,11 +1,13 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2015-09-13T21:57:05-04:00
 
-++ Odem
-[Core.Concepts: Origins]
-[Edit.Critical: Historical]
-+The Odem Introduction
+====== Odem ======
+@odem @origins @article @worlddata @edit_critical
+
+(The [[Odem]]: [[The Tesdema]], [[The Indema]], The [[Meardema]])
+
+===== The Odem Introduction =====
 
 	Those who are the minds of the metal. The spirits that dwelt in the world with no form until they brought themselves into the minerals, to live forever there, to bring life and intelligence to all beings. -[Kolvolt Forninias Fiaine] - [2nd Age]
 
@@ -17,44 +19,36 @@ Creation-Date: 2015-09-13T21:57:05-04:00
 
 *It was the method of the Odem*
 
-++[Mirodem]
-[Kam]
-++[The Tesdema]
-[Muwinn]
-[Ryyndal]
-[Anthis]
-[Nabhiore]
-++[The Indema]
-[Umbalinn]
-[Byalinn]
-[Ordrinn]
-[Meark]
-[Klanik]
-[Loffin]
-[Crinn]
-++[Meardema]
-[Lesrel]
-[Ki_mal]
-[Numis]
-[Aeorin]
-[Mahgrohl]
-[Wiar]
-[Umbanthis]
-[Diyesrel]
-[Dym]
-[Safryy]
-++[Nisdem]
-[Nevrenis]
-[Anschiant]
+==== Mirodem ====
+[[Kam]]
 
+==== The Tesdema ====
+[[Muwinn]]
+[[Ryyndal]]
+[[Anthis]]
+[[Nabhiore]]
 
-------------------------
+==== The Indema ====
+[[Umbalinn]]
+[[Byalinn]]
+[[Ordrinn]]
+[[Meark]]
+[[Klanik]]
+[[Loffin]]
+[[Crinn]]
 
-+++Related Pages: 
+==== Meardema ====
+[[Lesrel]]
+[[Ki mal]]
+[[Numis]]
+[[Aeorin]]
+[[Mahgrohl]]
+[[Wiar]]
+[[Umbanthis]]
+[[Diyesrel]]
+[[Dym]]
+[[Safryy]]
 
-
-{this page links from}
-[:rel:parents;aslist] 
-
-{this page links to}
-[:rel:children;aslist;existingonly]
+==== Nisdem ====
+[[Nevrenis]]
+[[Anschiant]]

@@ -2,49 +2,41 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2015-09-13T22:05:07-04:00
 
-+ Story Elements
+====== Story Elements ======
+@core
 
-++Legends of the Wells
+===== Legends of the Wells =====
 
-++Legends of the First Children
+===== Legends of the First Children =====
 
-+++The Lords of Trivault
-Read more about the [Lords of Trivault]
-	. [Legends of Tritavas]
-	. [Legends of Sirviirtoch]
-	. [Legends of Ruajaesviera] ([Raclem Eviticacha])
-	. [Legends of Rastasqek]
-	. [Legends of Sykgrola]
-	. [Legends of Sorraut]
+==== The Lords of Trivault ====
+Read more about the [[[Lords of Trivault]]]
+	. [[[Legends of Tritavas]]]
+	. [[[Legends of Sirviirtoch]]]
+	. [[[Legends of Ruajaesviera]]] (Raclem Eviticacha)
+	. [[[Legends of Rastasqek]]]
+	. [[[Legends of Sykgrola]]]
+	. [[[Legends of Sorraut]]]
 
 
-++Legends of the Mortal Races
+===== Legends of the Mortal Races =====
 
-+++Legends of the Hi_stos
-	(common race, [Hi_stos])Hi_stos
+==== Legends of the Hi_stos ====
+	the most common humanoit race
 
-+++Legends of the Diminutive Races
+
+==== Legends of the Kiim ====
 	(insects and other small races)
 
-++++Legends of the Wasps
 
-++++Legends of the Dragon Flies
+== Legends of the Wasps ==
 
-++++Legends of the Ants
+== Legends of the Dragon Flies ==
 
-++Legends of Divergent Creatures
+== Legends of the Ants ==
 
-+++Legends of Uracram
-	Read more about [Uracram].
-	Read the [Legends of Uracram].
+===== Legends of Divergent Creatures =====
 
-------------------------
-
-+++Related Pages: 
-
-
-{this page links from}
-[:rel:parents;aslist] 
-
-{this page links to}
-[:rel:children;aslist;existingonly]
+==== Legends of Uracram ====
+	Read more about [[[Uracram]]].
+	Read the [[[Legends of Uracram]]].

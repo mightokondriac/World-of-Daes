@@ -1,8 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2015-09-13T18:39:34-04:00
-
-====== Home ======
-Created Sunday 13 September 2015
-
-This is a [[test]]

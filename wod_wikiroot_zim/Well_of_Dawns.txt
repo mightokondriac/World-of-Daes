@@ -1,8 +1,10 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
-Creation-Date: 2015-09-13T22:10:16-04:00
+Creation-Date: 2018-01-22T23:23:17-05:00
 
-++ Well of Dawns
-[alias: Kamwell]
+====== Well of Dawns ======
+Created Monday 22 January 2018
+@historical @well @kam @fiaine @chronicle
+([[Kam Well]] - [[Well of Dawns]] - [[Fiaine Legacy]] - [[Kuptra Fiaine]])
 
--insert well of dawns info here
+The well that was the well from Odem Kam, the Well of the chroniclers known as the [[Fiaine Legacy]] (or lineage, depending on who you talk to).
