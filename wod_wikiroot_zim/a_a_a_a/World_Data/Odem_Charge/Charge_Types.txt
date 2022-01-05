@@ -66,16 +66,6 @@ Effect Description
 
 Genetic
 
-Raw Ore
-
-Smelted
-
-Alloyed
-
-Worked
-
-Joined
-
 ==== Stone ====
 	Primary Odem: 
 	Assoc. Metal: 
