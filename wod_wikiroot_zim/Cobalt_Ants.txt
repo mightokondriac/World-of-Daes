@@ -3,7 +3,7 @@ Wiki-Format: zim 0.4
 Creation-Date: 2015-09-13T19:32:52-04:00
 
 ====== Cobalt Ants ======
-@shortvol @chrondata @node 
+@chrondata @node 
 see [[a a a a:written.shortvols:Clamorstone Accounts|Clamorstone Accounts]]
 
 (Enslaved Hive Society)

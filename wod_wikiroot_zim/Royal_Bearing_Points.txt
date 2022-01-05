@@ -3,7 +3,7 @@ Wiki-Format: zim 0.4
 Creation-Date: 2015-09-13T21:59:46-04:00
 
 ====== Royal Bearing Points ======
-@shortvol @historical @godorand @thirdage @breakmedown
+@historical @godorand @thirdage @breakmedown
 
 The Bearing Points were created at the beginning of the [Third Age] at the height of the [[Mea Adrynn]] (Sky Born rule, when the dragons began to rule). They were originally designed to be compasses that were linked with specific metals in the [[Eladrimae Dragons]], allowing the dragons to always know exactly where they were, enhanced their magic, and allowed a seamless consciousness between groups on the ground and the sky.
 

@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2018-01-26T23:26:42-05:00
+
+====== Node ======
+Created Friday 26 January 2018
+@core @node
+A node is an incomplete or purely reference based filing. This content can serve a purpose no greater than a placeholder in the mind of the writer.

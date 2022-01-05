@@ -3,15 +3,15 @@ Wiki-Format: zim 0.4
 Creation-Date: 2015-09-13T21:58:52-04:00
 
 ====== Precipitant ======
-@core @article @historical
+@core @node @origins @worlddata 
 
 ==== See Also ====
 * [[Odem]]
 * [[Lords of Trivault]]
 
 ===== Primary Precipitant =====
-* [[The Brothers of Metal]]
-* [[The Sisters of Stone]]
+* [[Brothers of Metal]]
+* [[Sisters of Stone]]
 
 ===== Secondary Precipitant =====
 * [[Ade Mog]]

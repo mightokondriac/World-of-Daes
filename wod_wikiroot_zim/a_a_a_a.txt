@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2015-09-13T23:21:14-04:00
 
 ====== a a a a ======
@@ -7,17 +7,18 @@ Creation-Date: 2015-09-13T23:21:14-04:00
 Created Sunday 13 September 2015
 
 ===== This is a root page for the Alphabetical Index Sidebar. =====
+[[+a.CORE]]
+[[+a.CORE:Article]]
+[[+Project Goals]]
 
-[[+project.goals]]
-[[+project.issues]]
 [[+written.novels]]
 [[+written.shortvols]]
-+written.micros
+[[+written.micros]]
 [[+written.shortvols:Contemplations of Crenshaw]]
-[[+written.articles]]
+
 [[Storylines]]
-[[Time Scales]]
-[[worlddata]]
-[[core]]
+[[+World Data:Segmented Time Gradients|Time Scales]]
+[[+World Data|World Data]]
+
 
 

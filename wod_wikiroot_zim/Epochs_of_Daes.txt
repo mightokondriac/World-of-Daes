@@ -1,15 +1,33 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2015-09-13T19:35:17-04:00
 
-++ Epochs of Daes
+====== Epochs of Daes ======
+@timescale @node @core @worlddata
 
-[Pre-First Age]
-[First Age] ([1st Age])
-[Second Age] ([2nd Age])
-[Third Age] ([3rd Age])
-[Fourth Age] ([4th Age])
-[Fifth Age] ([5th Age])
-[Sixth Age] ([6th Age])
-[Seventh Age] ([7th Age])
-[Eighth Age] ([8th Age])
+===== Pre-First Age =====
+see [[Time Scales]] or [[a a a a:World Data:Segmented Time Gradients]] for more on Pre-History
+
+===== First Age =====
+Creation of the Odem and the Precipitant
+
+===== Second Age =====
+Creation of the Lords of Trivault and the First Children
+
+===== Third Age =====
+Creation of the Divergent Races
+
+===== Fourth Age =====
+The Banishment of Screegund to the depths of the ocean and the Long Sleep of Tritavas.
+
+===== Fifth Age =====
+The expanse and dominion of Histos (Sleeper-Hybrid Humanoid)
+
+===== Sixth Age =====
+The Scourge of Rendabash and the Sinking of Jeshaland. The collapse of relations between the Histos and the Kiim races.
+
+===== Seventh Age =====
+The End of the Dragon Council and the Scaleborn Rule. 
+
+===== Eighth Age =====
+The beginning of the Mechanical Age. The return of the Kiim races to the Kal-Met Validations. Kiim-Blue Sparrow and Kiim-Gilted Green Wasp regain control of the Jeshaland Island chain. 

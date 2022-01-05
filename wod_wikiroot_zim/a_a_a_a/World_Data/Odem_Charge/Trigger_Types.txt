@@ -1,0 +1,59 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-01-04T20:39:57-05:00
+
+====== Trigger Types ======
+Created Tuesday 04 January 2022
+When a creature has enough share of the Odem Charge, they will manifest their abilities when triggered in a certain way. This triggering can happen each time the required element is satisfied, or it can trigger a permanent Activation of the ability. The following are the types of triggers that can draw out the magic of a Charged creature.
+
+===== Trigger Types of Shares =====
+^{Shares are slso known as [[Odem Charge]]}
+
+==== Inner Physical ====
+		Their abilities stems from or is triggered by something that happens to them physically. This can happen once and be on for ever or be turned on every time the trigger happens and then dissipates over time relative to the strength of the thier share.
+		
+
+==== Outer Physical ====
+		Only applies to something in the physical world that is touched. if held the ability may hold or it may only require one touch and then the ability is manifest forever.
+		
+
+==== Emotional ====
+		A specific emotion at a specific volume triggers this ability or activates it.
+		
+
+==== Empathy ====
+		When a specific emotion is felt at a specific volume, this abiltity is triggered or activated.
+		
+
+==== Etheric ====
+		Like Celestial, however Etheric triggers from any entity from the Astral Plane. One of the least understood triggers, it assumed that entities from other planes must be present for this ability to trigger or activate. It is also worth noting that this trigger seems to take a great deal more Share to utilize their ability than any other trigger type. Celestial entities improve the connection a good deal more than most Astral plane entities but is still quite a bit less than all other trigger types in the throughput in the connection to the Odem.
+		
+
+==== Astral ====
+		Similar to a degree as almost indistuguishable from Celestial, the Astral trigger is assumed to be a result of fluctuations or focal points in the Astral Plane. While many entities function on the astral plane, an Astral Trigger appears not to depend on any specific type of astral interaction, just the strength of the connection.
+		
+
+==== Scattered ====
+		The hardest of all the Triggers to decifer. This trigger can be anything at any time. Generally creatures with this trigger type tend to have an array of triggers and are cycled through predictably after a certain age.
+		
+
+==== Bouyed ====
+		Whatever object, place, smell, sound (etc..) this trigger is, the effect of the trigger only lasts while in a proximity relative to the power of the Share.
+		
+
+==== Transitional ====
+		Like Scattered, this trigger type actually presents as manifold triggers, however, this type starts with one trigger type and gradually transitions to another trigger type. This can happen more that once, however it has never been seen to happen more than twice.
+
+==== Tethered ====
+		Like Bouyed, this trigger only works in proximity to a specific "thing". However, Tethered trigger types can only trigger or activate when around one specific thing (i.e. not just a tree, but **one** specific tree).
+		
+
+==== Celestial ====
+		When any sort of activity by a celestial is within proximity to the creature, relative to the strength of the Share. Even after the event has taken place, this trigger type will be sensitive to it. The sensativity(duration the event is detectable) also relative to the strength of the Share of the creature.
+
+==== Constant ====
+		Whenever the creature imbued with a Constant trigger wishes to use their ability, it is at the ready. This trigger can also cause the ability to recede or even turn off. This trigger type is one of the hardest to spot because the creature can choose to be using their ability whenever they want, meaning that deception is possible. Constant trigger types are responsible for some of the most heinous crimes, by sentient beings, in the known world.
+		
+
+==== Dedicated ====
+		Like Constant, however the creature has no choice in the matter. Its ability is at full capacity at all times. This is the most dangerous of all the Trigger types. It only Activates and stays active until death. Even if this Trigger causes the creature to die or kill/destroy its prodgeny, it will still happen. Some of the worst events ever recorded in this regard were the births of uncontrollable Dedicated creatures of dangerous manifest. Lightning is by far the worst and has mercifully only been borne to the world once in known record. 

@@ -1,10 +1,11 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2018-01-22T23:07:22-05:00
 
 ====== Segmented Time Gradients ======
 Created Monday 22 January 2018
-@article @timescale @stg 
+@article @timescale @stg @core
+
 
 see also [[Time Scales]]
 
@@ -144,3 +145,4 @@ f:4- is a fixed block of time only I will be able to edit/add.
 f:4 is mixed block that has some fixed and some open to edit/add
 f:4+ is an open block for approved editors (666.6 total units worth 500 years each.)
 Each unit will be opened as the previous one reaches a "functional capacity state". Multiple contributors can work on any open unit. Any further dissection of a unit is completely up to the contributing members of that unit.
+

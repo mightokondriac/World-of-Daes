@@ -2,6 +2,6 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2015-09-13T19:34:56-04:00
 
-++ Eighth Age
+====== Eighth Age ======
+@timescale @8thage
 
-[alias: 8th Age]

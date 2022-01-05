@@ -1,7 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2015-09-13T21:54:47-04:00
-
-====== Micros ======
-@supershorts @shorts @storylines @shortvol @micro
-

@@ -1,8 +1,8 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2015-09-13T23:31:46-04:00
 
-====== project.goals ======
+====== Project Goals ======
 Created Sunday 13 September 2015
 
 ===== The goals of this project are broad. =====

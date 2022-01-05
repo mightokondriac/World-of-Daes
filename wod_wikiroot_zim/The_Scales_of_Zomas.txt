@@ -1,9 +1,11 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
-Creation-Date: 2015-09-13T22:06:53-04:00
+Creation-Date: 2018-01-26T22:57:15-05:00
 
-++ The Scales of Zo_mas
-read the full story of [The Gifts of Zo_mas] to learn more.
+====== The Scales of Zomas ======
+Created Friday 26 January 2018
+
+read the full story of [[The Gifts of Zomas]] to learn more.
  
 [The Apthis Scale] - The Lost Scale of Zo_Mas
 Story of the lost scale - was to be the Blue Shield
@@ -13,14 +15,3 @@ Story of the Red Shield
 
 [The Rhias Scale] - The Yellow Shield
 Story of the Yellow Shield
-
-------------------------
-
-+++Related Pages: 
-
-
-{this page links from}
-[:rel:parents;aslist] 
-
-{this page links to}
-[:rel:children;aslist;existingonly]
