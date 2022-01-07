@@ -7,3 +7,31 @@ Created Wednesday 24 January 2018
 @worlddata @core
 
 World Data is information that is absolute information about the nature of how things work and is not an interpretation through a science or observation. This information is considered above the knowledge of all known data but is not exclusive in that regard.
+[[+Odem Charge|Odem Charge]]
+	[[+Odem Charge:Charge Types|Charge Types]]
+	[[+Odem Charge:Trigger Types|Trigger Types]]
+[[+Segmented Time Gradients|Segmented Time Gradients]] (Timelines)
+
+World: [[+World|Daes]]
+
+[[+Landmasses|Landmasses]]
+	[[+Landmasses:Godorand|Godorand]]
+[[+Oceans|Oceans]]
+[[+Locations|Locations]]
+	[[+Locations:Bon Tai|Bon Tai]]
+[[+Events|Events]]
+	Kal Met
+	Screegund is Born
+	Divergence of Creatures
+	Meark breaks the World
+	The Nevers are created
+	Tritavas Quiets the Serpents
+	Kam Shunts his power
+	Vrindimas Creates the Thousand Fires Hammer
+	Alinaressa Discovers the Never Ring
+	
+[[+Histories|Histories]]
+
+[[+Entities|Entities]]
+
+

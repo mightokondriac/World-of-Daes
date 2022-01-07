@@ -1,7 +1,7 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2015-09-13T21:56:51-04:00
 
-++ Numis
+====== Numis ======
 
 Dristel - Thorn Effect

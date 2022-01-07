@@ -1,9 +1,9 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2018-01-27T00:19:09-05:00
 
 ====== Alinaressa ======
 Created Saturday 27 January 2018
-@handoffate @novel @mainchar @node @chrondata
+@handoffate @novel @mainchar @node 
 
 main character of the "Hand of Fate" book from the Forgotten Legacies trillogy.

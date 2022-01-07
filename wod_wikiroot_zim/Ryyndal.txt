@@ -1,10 +1,10 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2015-09-13T22:00:50-04:00
 
 ====== Ryyndal ======
 @odem @origins @node @worlddata
 
 Metal: Helepion
-Effect/Affinity: Fire
+Effect/Affinity: [[a a a a:World Data:Odem Charge:Charge Types#fire|Fire]]
 	When Ryyndal came into the world, the red shimmer of the Helepion ore reminded him of his distant star from whence he was born. His mind became enthralled with the notion of the necessity of change and renewal and that was his love, and thence gave it the power of fire and transformation and the ability to adapt. His sister was Umbalinn, and together they share love for the moving stone masses of the world that all kingdoms now sit upon.

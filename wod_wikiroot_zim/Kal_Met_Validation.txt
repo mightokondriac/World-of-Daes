@@ -1,10 +1,9 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2015-09-13T21:34:02-04:00
 
 ====== Kal Met Validation ======
 @article @historical @kiim 
-(read more about the Kal Met
 
 Held every 5 years, the Kal Met Validation is one of the only known ceremonies to have survived the the ancient days. While the early "Validations" were held by members from around the globe, and has since waned in its overall effectiveness, many still travel across the continent to attend.
 

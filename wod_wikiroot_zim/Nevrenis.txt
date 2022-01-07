@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2015-09-13T21:55:33-04:00
 
 ====== Nevrenis ======
@@ -12,5 +12,5 @@ In the times when the children of [[Meark]] who have corrupted the world create 
 
 //
 
-Neverenis was sent to guard the minds of the [[Meardema|new metals]] brought about by [[Meark]], and all of their creations, to ensure the protection and abidance of the One Law; "Love this World, and with that love, bring love into the minds of those you harbor".
+Neverenis was sent to guard the minds of the [[The Meardema|new metals]] brought about by [[Meark]], and all of their creations, to ensure the protection and abidance of the One Law; "Love this World, and with that love, bring love into the minds of those you harbor".
 Although the metals created byu meark were pure creation. 

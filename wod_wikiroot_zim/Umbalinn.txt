@@ -1,9 +1,9 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2015-09-13T22:09:05-04:00
 
-++ Umbalinn
+====== Umbalinn ======
 
 Metal: Ertin
-Effect/Affinity: Stone
-	Sister of Ryyndal of the Tesdema. Together they saw the majesty of the heaving and hardening of the earth of stone and fire. Umbalinn could see and feel the power of the stone and it was her love; the stuff of permanency but that is proof that all things do in time change.
+Effect/Affinity: [[a a a a:World Data:Odem Charge:Charge Types#secondstone|Stone]] (Scroll down to stone, for some reason this link wont work)
+	Sister of [[Ryyndal]] of [[The Tesdema]]. Together they saw the majesty of the heaving and hardening of the earth of stone and fire. Umbalinn could see and feel the power of the stone and it was her love; the stuff of permanency but that is proof that all things do in time change.

@@ -1,9 +1,9 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2015-09-13T19:04:55-04:00
 
 ====== Anschiant ======
-@origins @core @odem
+@origins @core @worlddata
 
 The most ancient gods. The Creators of the Universe. They are to the universe as the Odem are to the World of Daes. They too were called to serve the universe with the same rules as that which were given to the Odem. 
 

@@ -7,16 +7,24 @@ Creation-Date: 2015-09-13T23:21:14-04:00
 Created Sunday 13 September 2015
 
 ===== This is a root page for the Alphabetical Index Sidebar. =====
+
+
 [[+a.CORE]]
 [[+a.CORE:Article]]
 [[+Project Goals]]
+[[+Admin|Admin]]
+[[+Admin:Journal|Administrative Journal]]
+
+[[+ScratchPad|Scratch Pad]]
+
+[[+World Data|World Data]]
 
 [[+written.novels]]
 [[+written.shortvols]]
 [[+written.micros]]
 [[+written.shortvols:Contemplations of Crenshaw]]
 
-[[Storylines]]
+[[+World Data:Storylines]]
 [[+World Data:Segmented Time Gradients|Time Scales]]
 [[+World Data|World Data]]
 

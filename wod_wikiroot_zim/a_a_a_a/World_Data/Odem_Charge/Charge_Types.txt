@@ -3,13 +3,38 @@ Wiki-Format: zim 0.6
 Creation-Date: 2022-01-04T20:47:08-05:00
 
 ====== Charge Types ======
-@odemcharge @triggertype @worlddata @odem 
-
+@odemcharge @chargetype @worlddata  
 Created Tuesday 04 January 2022
+	^{Associated with [[Trigger Types]]}
+
 The abilities that are passed down in various forms and degrees to any living creature. Each Odem has a metal or metals(see Meark) associated with them and each of those metals have an ability associated with them. The following are the abilities from those metals.
 
-===== Triggered Odem Charge Effects =====
-^{Associated with [[Trigger Types]]}
+===== Meardema Charge Types =====
+This category only applies to the Odem Kam.
+
+==== Wind ====
+
+==== Chronicle ====
+_{This Charge Type(Chronicle) has only ever effected the [[Fiaine Legacy]](original chroniclers from the Kamwell, or the [[Well of Dawns]]).}
+
+	Primary Odem: Kam
+	Assoc. Metal: Aston
+
+Effect Description
+
+Genetic
+
+Raw Ore
+
+Smelted
+
+Alloyed
+
+Worked
+
+Joined
+
+===== Tesdema Charge Types =====
 
 ==== Sun ====
 	Primary Odem: [[Muwinn]]
@@ -34,65 +59,6 @@ Creates a chance of a spark so bright when the metal is being worked that it can
 
 Joined
 Prolonged connection allows for roaming sight amongst all who are rightly connected through blood or ceremony to Muwinn. Additionally, sustained vision of the living entity of metal.
-
-
-==== Moon ====
-	Primary Odem: [[Byalinn]]
-	Assoc. Metal: Silver
-
-Effect Description
-
-Genetic
-Only Visible in Moonlight. Greatly enhanced sight when any moonlight is shining. Plants and animals that are affected by the full moon tend to be drawn to someone with a high share of Moon. Creatures on the astral plane are faintly visible at night during a full moon.
-
-Raw Ore
-Attraction to nearby open water when held. When worn by the heart, the light of the moon shines a little brighter around the wearer. 
-
-Smelted
-Holder gains a dim aura in like fashion to the moon, at night, regardless of moon phase.
-
-Alloyed
-
-Worked
-
-Joined
-Prolonged connection allows for invisibility during daytime. Byalinn demands all connected must bath in open water at full moon without question. 
-
-==== Star ====
-	Primary Odem: 
-	Assoc. Metal: 
-
-Effect Description
-
-Genetic
-
-Raw Ore
-
-Smelted
-
-Alloyed
-
-Worked
-
-Joined
-
-==== Stone ====
-	Primary Odem: 
-	Assoc. Metal: 
-
-Effect Description
-
-Genetic
-
-Raw Ore
-
-Smelted
-
-Alloyed
-
-Worked
-
-Joined
 
 ==== Fire ====
 	Primary Odem: 
@@ -130,7 +96,7 @@ Worked
 
 Joined
 
-==== Blade ====
+==== Night ====
 	Primary Odem: 
 	Assoc. Metal: 
 
@@ -148,7 +114,68 @@ Worked
 
 Joined
 
-==== Night ====
+===== Indema Charge Types =====
+
+==== Stone ====
+
+	Primary Odem: 
+	Assoc. Metal: 
+
+Effect Description
+
+Genetic
+
+Raw Ore
+
+Smelted
+
+Alloyed
+
+Worked
+
+Joined
+
+==== Moon ====
+	Primary Odem: [[Byalinn]]
+	Assoc. Metal: Silver
+
+Effect Description
+
+Genetic
+Only Visible in Moonlight. Greatly enhanced sight when any moonlight is shining. Plants and animals that are affected by the full moon tend to be drawn to someone with a high share of Moon. Creatures on the astral plane are faintly visible at night during a full moon.
+
+Raw Ore
+Attraction to nearby open water when held. When worn by the heart, the light of the moon shines a little brighter around the wearer. 
+
+Smelted
+Holder gains a dim aura in like fashion to the moon, at night, regardless of moon phase.
+
+Alloyed
+
+Worked
+
+Joined
+Prolonged connection allows for invisibility during daytime. Byalinn demands all connected must bath in open water at full moon without question. 
+
+==== Star ====
+	Primary Odem: [[Ordrinn]]
+	Assoc. Metal: Elion
+
+Effect Description
+
+Genetic
+
+Raw Ore
+
+Smelted
+
+Alloyed
+
+Worked
+
+Joined
+
+==== Invert ====
 	Primary Odem: 
 	Assoc. Metal: 
 
@@ -184,6 +211,24 @@ Worked
 
 Joined
 
+==== Hammer ====
+	Primary Odem: 
+	Assoc. Metal: 
+
+Effect Description
+
+Genetic
+
+Raw Ore
+
+Smelted
+
+Alloyed
+
+Worked
+
+Joined
+
 ==== Tremor ====
 	Primary Odem: 
 	Assoc. Metal: 
@@ -202,25 +247,9 @@ Worked
 
 Joined
 
+===== Meardema Charge Types =====
+
 ==== Coral ====
-	Primary Odem: 
-	Assoc. Metal: 
-
-Effect Description
-
-Genetic
-
-Raw Ore
-
-Smelted
-
-Alloyed
-
-Worked
-
-Joined
-
-==== Hammer ====
 	Primary Odem: 
 	Assoc. Metal: 
 
@@ -310,24 +339,6 @@ Worked
 
 Joined
 
-==== Wind ====
-	Primary Odem: 
-	Assoc. Metal: 
-
-Effect Description
-
-Genetic
-
-Raw Ore
-
-Smelted
-
-Alloyed
-
-Worked
-
-Joined
-
 ==== Clay ====
 	Primary Odem: 
 	Assoc. Metal: 
@@ -400,7 +411,7 @@ Worked
 
 Joined
 
-==== Invert ====
+==== Blade ====
 	Primary Odem: 
 	Assoc. Metal: 
 

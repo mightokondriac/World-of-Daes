@@ -3,7 +3,7 @@ Wiki-Format: zim 0.6
 Creation-Date: 2015-09-13T21:57:25-04:00
 
 ====== Odem Charge ======
-@odem @node @worlddata @share @odemcharge @triggertype 
+@node @worlddata @share @odemcharge @triggertype  @chargetype
 
 The Charge is the level(Share) at which a beging is infused with the spirit of the divine metals.
 

@@ -1,10 +1,10 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2015-09-13T22:07:43-04:00
 
 ====== The Tesdema ======
 @odem @origins @tesdema @node @worlddata
-(The [[Odem]]: [[The Tesdema]], [[The Indema]], The [[Meardema]])
+(The [[Odem]]: [[The Tesdema]], [[The Indema]], The [[The Meardema]])
 
 They are the immediate followers of [[Kam]]. All are the [[Odem]], but the four that followed are called the Tesdema "The Next Spirits" or "The True Followers".
 

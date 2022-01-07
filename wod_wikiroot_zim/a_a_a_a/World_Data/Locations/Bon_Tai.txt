@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-01-05T16:24:45-05:00
+
+====== Bon Tai ======
+Created Wednesday 05 January 2022
+@node @location @godorand
+
+A location on godorand.

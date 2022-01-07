@@ -1,0 +1,47 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-01-05T16:30:34-05:00
+
+====== Entities ======
+Created Wednesday 05 January 2022
+
+The main creatures of the world (or otherworldly) that shaped the events that made the world what it is. The Histories of these creatures are not always known in their full extent, yet these, like the Histories section is the full and unadulterated truth of what happened.
+
+===== The Creators =====
+
+The [[Anschiant|Ancshient]]
+
+The [[Odem]]
+
+The [[Mirodem]]
+
+===== The Created =====
+
+The [[The Meardema|Meardema]]
+
+The [[Precipitant]]
+
+The [[Histos]]
+
+The [[Lords of Trivault]]
+
+	[[Tritavas]]
+
+===== The Unexpected =====
+
+[[Screegund]]
+
+Brimd
+
+===== The Chroniclers =====
+
+[[written.shortvols:Contemplations of Crenshaw|Crenshaw]]
+
+[[Kuptra Fiaine]]
+
+===== The Shapers =====
+
+[[rend|Rendabash]]
+
+[[Alinaressa]]
+

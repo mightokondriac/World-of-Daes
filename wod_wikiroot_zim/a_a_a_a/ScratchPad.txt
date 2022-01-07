@@ -14,56 +14,14 @@ Population Names
 
 Entity Names
 
+Qagedas
+Shift Cobra
+Share:866 (Constant)
+Share Origin:(Underground River)
+
+Fanshare
+Thorn Gull
+Share:832 (Bouyed)
+Share Origin:(Unnatural)
+
 Research Links
-
-
-===== Triggered Odem Charge Effects =====
-
-==== Sun ====
-	Primary Odem: [[Muwinn]]
-	Assoc. Metal: Gold
-
-=== Effect Description ===
-
-== Genetic ==
-In darkness, a nearly blinding light can shine forth from the crown area. The exact source is impossible to ascertain. The rays of light are healing, can carry information, sustain natural environments, and are rather warm. In great numbers, the collective brilliance can blind anything looking at the totality. In groups the healing attribute of the light is magnified into a complete emotional and spiritual healing as well as physical. A non-Sun creature within the radius of the rays receives this healing(the experience can be so intense that in some creatures the mind will fall asleep to allow the body, mind and heart to heal. If the creature fights this sleep, the healing will not take effect)
-
-== Raw Ore ==
-Will shower bright sparks when struck. If worn or held during sleep it will offer restful sleep filled with dreams of sunny days and warm safety.
-
-== Smelted ==
-Enhanced vision for a limited time; When held or worn for an extended amount of time, the holder will have the ability to see the living entity of intelligent metals.
-
-== Alloyed ==
-Imbues the alloy with a slight ghostly glow. A slight increase in visual perception when held.  
-
-== Worked ==
-Creates a chance of a spark so bright when the metal is being worked that it can draw in the soul of a curious entity. This soul can then remain in the worked piece for as long as the object is still intact. This item will be able to communicate with anyone that holds it. However, any creature of suitable intelligence holding it will be able to confer perfectly and flawlessly with the entity. 
-
-== Joined ==
-Prolonged connection allows for roaming sight amongst all who are rightly connected through blood or ceremony to Muwinn. Additionally, sustained vision of the living entity of metal.
-
-
-Moon
-Star
-Stone
-Fire
-Water
-Blade
-Night
-Shock
-Tremor
-Coral
-Hammer
-Binary
-Thorn
-Nova
-Shift
-Wind
-Clay
-Hydriac
-Dagger
-Pheonix
-Invert
-
-	

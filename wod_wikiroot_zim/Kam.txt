@@ -1,13 +1,17 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2015-09-13T21:34:25-04:00
 
-++ Kam
-[alias: Mirodem]
-_(also exclusively known as "The Mirodem", or just "Mirodem")_
+====== Kam ======
+@odem @kam @mirodem @aston
 
-	The first Odem was called _Kam_. He is the lord of all metals on Daes, and personally inhabits the metal known as [Aston], or Kamston(Kamstone). His presence on [Daes] was initially a directional force to help the other Odem in the settling of their cycles with the planet. His task was to observe and maintain the balance of [Odem|his brethren], of which he had served with the help foster the universe, who would at times -despite their pure intentions, would create ripples and fissures in the balance of the intricate layering of choice and response. 
+Also known as The Mirodem
+	
+	Metal: Aston, Astone, Kamstone
+	Effect: Chronicles, Wind
+	
+	The first Odem was called Kam. He is the lord of all metals on Daes, and personally inhabits the metal known as Aston. His presence on [[a a a a:World Data:World|Daes]] was initially a directional force to help the other [[Odem]] in the settling of their cycles with the planet. His task was to observe and maintain the balance of the Odem, of which he had served with the help foster the universe, who would at times -despite their pure intentions, would create ripples and fissures in the balance of the intricate layering of choice and response. 
 
 	There were times in the very beginning that would test Kam in his secured position, giving him reason to guide the Odem and everything that came from them. His Odemic Projection (or Odeaema, or Mirodeama used in reference to Kam alone) became a harmonic of all knowledge and experience. The various entities that came directly from his primary well were to become the chroniclers of the world. 
 
-	There is only one race that follows the true wisdom and obedience of Kam laid down by [Endrach], first Great [Thornskin] and original bearer of the [Fiaine Legacy]; The Thornskin Fiaine of the [Kingdom of the Sundered Mount], who heard the wishes of Kam. 
+	There is only one race that follows the true wisdom and obedience of Kam laid down by [[Endrach]], first Great [[Thornskin Fiaine]] and original bearer of the [[Fiaine Legacy]]; The Thornskin Fiaine of the [[Kingdom of the Sundered Mount]], who heard the wishes of Kam. 
