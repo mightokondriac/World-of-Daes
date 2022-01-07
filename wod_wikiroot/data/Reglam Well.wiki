@@ -1,3 +1,0 @@
-﻿++ Reglam Well
-[Core.Locations: Great Wells]
-[Edit.Critical: Locations]

@@ -1,4 +1,0 @@
-﻿++ Great Forge of Ryyndal
-[Core.Locations: Origins]
-[Core.Concepts: Origins]
-[Edit.Critical: Locations]

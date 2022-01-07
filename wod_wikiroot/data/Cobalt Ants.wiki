@@ -1,5 +1,0 @@
-﻿++ Cobalt Ants
-[storylines.series: Clamorstone Accounts]
-
-(Enslaved Hive Society)
-    The primary ancestral race of Clamorstone. The Mantreas took over the "crown" of the Cobalt Ants in the [Second Age] of the Standard Reckoning. Since then the Cobalt Ants have become a subsociety of the Cobalt Mantes.

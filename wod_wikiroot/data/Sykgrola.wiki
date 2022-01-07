@@ -1,4 +1,0 @@
-﻿++ Sykgrola
-[Core.Entities: Lords of Trivault]
-[Edit.Critical: Entities]
-[Timeline: First Age]

@@ -1,5 +1,0 @@
-﻿++ Oured
-[Core.Locations: Origins]
-[Edit.Critical: Locations]
-
-The Void where the endless water of the [Great Wells] eventually ceases.

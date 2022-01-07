@@ -1,9 +1,0 @@
-﻿++ BlogEntryTemplate
-
-INSERTDATEHERE
-
-For Today:
-    *
-
-
-BloggerHelp
