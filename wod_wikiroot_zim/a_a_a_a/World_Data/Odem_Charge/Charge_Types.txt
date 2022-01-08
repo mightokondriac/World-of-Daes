@@ -14,27 +14,33 @@ This category only applies to the Odem Kam.
 
 ==== Wind ====
 
-==== Chronicle ====
-_{This Charge Type(Chronicle) has only ever effected the [[Fiaine Legacy]](original chroniclers from the Kamwell, or the [[Well of Dawns]]).}
+==== Chronicle * ====
+ *_{This Charge Type has only ever effected the [[Fiaine Legacy]](original chroniclers from the Kamwell, or more commonly known as the [[Well of Dawns]]).}
 
-	Primary Odem: Kam
-	Assoc. Metal: Aston
+	Primary Odem: [[Kam]]
+	Assoc. Metal: [[Metal Types#aston|Aston]]
 
 Effect Description
 
-Genetic
+* Genetic
+	Chronicle - Remember everything that has been learned in all generations of the bloodline.
 
-Raw Ore
+* Raw Ore
+	While held, this mineral imparts an enhanced ability to retain information learned or experienced.
 
-Smelted
+* Smelted
+	While held or worn, this metal imparts a clear recollection of information learned or experienced by anyone who has held or worn the metal while in its current state. The wielder of this information cannot retain the information however, unless the first rule of Endrach is excersized on that information within one week of recalling it.
 
-Alloyed
+* Alloyed
+	Aston can not be combined with any other metal.
 
-Worked
+* Worked
 
-Joined
+* Joined
+	The Mirodem is accessible only to those who have devoted their lives obediently to the Laws of Endrach (and thereby, of Kam) for at least 30 years. Any who try to access the original spirit that do not qualify will be met with silence. On the third attempt, if failed, the one attempting will be wiped of all knowledge and memory of the way to access Kam and will forever be faced with confusion and loss from any attempt at using the metal for its regular purposes.
 
 ===== Tesdema Charge Types =====
+	_{Learn more about the [[The Tesdema|Tesdema]]}
 
 ==== Sun ====
 	Primary Odem: [[Muwinn]]
@@ -42,98 +48,111 @@ Joined
 
 Effect Description
 
-Genetic
-In darkness, a nearly blinding light can shine forth from the crown area. The exact source is impossible to ascertain. The rays of light are healing, can carry information, sustain natural environments, and are rather warm. In great numbers, the collective brilliance can blind anything looking at the totality. In groups the healing attribute of the light is magnified into a complete emotional and spiritual healing as well as physical. A non-Sun creature within the radius of the rays receives this healing(the experience can be so intense that in some creatures the mind will fall asleep to allow the body, mind and heart to heal. If the creature fights this sleep, the healing will not take effect)
+* Genetic
+	In darkness, a nearly blinding light can shine forth from the crown area. The exact source is impossible to ascertain. The rays of light are healing, can carry information, sustain natural environments, and are rather warm. In great numbers, the collective brilliance can blind anything looking at the totality. In groups the healing attribute of the light is magnified into a complete emotional and spiritual healing as well as physical. A non-Sun creature within the radius of the rays receives this healing(the experience can be so intense that in some creatures the mind will fall asleep to allow the body, mind and heart to heal. If the creature fights this sleep, the healing will not take effect)
 
-Raw Ore
-Will shower bright sparks when struck. If worn or held during sleep it will offer restful sleep filled with dreams of sunny days and warm safety.
+* Raw Ore
+	Will shower bright sparks when struck. If worn or held during sleep it will offer restful sleep filled with dreams of sunny days and warm safety.
 
-Smelted
-Enhanced vision for a limited time; When held or worn for an extended amount of time, the holder will have the ability to see the living entity of intelligent metals.
+* Smelted
+	Enhanced vision for a limited time; When held or worn for an extended amount of time, the holder will have the ability to see the living entity of intelligent metals.
 
-Alloyed
-Imbues the alloy with a slight ghostly glow. A slight increase in visual perception when held.  
+* Alloyed
+	Imbues the alloy with a slight ghostly glow. A slight increase in visual perception when held.  
 
-Worked
-Creates a chance of a spark so bright when the metal is being worked that it can draw in the soul of a curious entity. This soul can then remain in the worked piece for as long as the object is still intact. This item will be able to communicate with anyone that holds it. However, any creature of suitable intelligence holding it will be able to confer perfectly and flawlessly with the entity. 
+* Worked
+	Creates a chance of a spark so bright when the metal is being worked that it can draw in the soul of a curious entity. This soul can then remain in the worked piece for as long as the object is still intact. This item will be able to communicate with anyone that holds it. However, any creature of suitable intelligence holding it will be able to confer perfectly and flawlessly with the entity. 
 
-Joined
-Prolonged connection allows for roaming sight amongst all who are rightly connected through blood or ceremony to Muwinn. Additionally, sustained vision of the living entity of metal.
+* Joined
+	Prolonged connection allows for roaming sight amongst all who are rightly connected through blood or ceremony to Muwinn. Additionally, sustained vision of the living entity of metal.
 
 ==== Fire ====
-	Primary Odem: 
-	Assoc. Metal: 
+	Primary Odem: [[Ryyndal]]
+	Assoc. Metal: [[Metal Types#helepion|Helepion]]
 
 Effect Description
 
-Genetic
+* Genetic
+	Immune to normal fire, control existing fire, infrared sight
 
-Raw Ore
+* Raw Ore
+	Warm to the touch. Can keep the holder warm if in a frigid environment. Attraction to fire.
 
-Smelted
+* Smelted
+	Cool to the touch. Holder can see very slight infrared at night. Dazzled by fire.
 
-Alloyed
+* Alloyed
+	Pure) Control of Fire. Impure) Hot to the Touch, Decent Infrared Sight.
 
-Worked
+* Worked
+	Pure) Can only be formed once unless reworked in the same forge.
 
-Joined
+* Joined
 
 ==== Water ====
-	Primary Odem: 
-	Assoc. Metal: 
+	Primary Odem: [[Anthis]]
+	Assoc. Metal: [[Metal Types#sishion|Sishion]]
 
 Effect Description
 
-Genetic
+* Genetic
+	Moves without effort, Deadly in packs, Sustain environment in proximity. Moderatly Advanced: waterbreathing, acute hearing, loss of visual acuity. Highly Advanced: vaporform/waterform(individual and group), tremorsense, blindness
 
-Raw Ore
+* Raw Ore
 
-Smelted
+* Smelted
 
-Alloyed
+* Alloyed
 
-Worked
+* Worked
 
-Joined
+* Joined
 
 ==== Night ====
-	Primary Odem: 
-	Assoc. Metal: 
+	Primary Odem: [[Nabhiore]]
+	Assoc. Metal: [[Metal Types#niorebon|Niorebon]]
 
 Effect Description
 
-Genetic
+* Genetic
+	Utterly Black including eyes.
 
-Raw Ore
+* Raw Ore
+	Leaves a black residue on anything that touches it save a few exceptions.
 
-Smelted
+* Smelted
+	The dark exterior is now on the interior. A deep bottomless black is see in this form. Exposure for more than one hour can lead to a permanent blackening of pigmented skin. This affected skin is resistant to sun burns and radiation of other kinds.
 
-Alloyed
+* Alloyed
+	Suffocate the other effects or just make them black also?
 
-Worked
+* Worked
 
-Joined
+* Joined
+
 
 ===== Indema Charge Types =====
+	_{Learn more about the [[The Indema|Indema]]}
 
 ==== Stone ====
 
-	Primary Odem: 
-	Assoc. Metal: 
+	Primary Odem: [[Umbalinn]]
+	Assoc. Metal: [[Metal Types#ertin|Ertin]]
 
 Effect Description
 
-Genetic
+* Genetic
+	Non-aggressive, Exceptionally high weight, impervious to cutting damage
 
-Raw Ore
+* Raw Ore
 
-Smelted
+* Smelted
 
-Alloyed
+* Alloyed
 
-Worked
+* Worked
 
-Joined
+* Joined
 
 ==== Moon ====
 	Primary Odem: [[Byalinn]]
@@ -141,20 +160,20 @@ Joined
 
 Effect Description
 
-Genetic
-Only Visible in Moonlight. Greatly enhanced sight when any moonlight is shining. Plants and animals that are affected by the full moon tend to be drawn to someone with a high share of Moon. Creatures on the astral plane are faintly visible at night during a full moon.
+* Genetic
+	Only Visible in Moonlight when the share is considerably high. Greatly enhanced sight when any moonlight is shining. Plants and animals that are affected by the full moon tend to be drawn to someone with a high share of Moon. Creatures on the astral plane are faintly visible at night during a full moon.
 
-Raw Ore
-Attraction to nearby open water when held. When worn by the heart, the light of the moon shines a little brighter around the wearer. 
+* Raw Ore
+	Attraction to nearby open water when held. When worn by the heart, the light of the moon shines a little brighter around the wearer. 
 
-Smelted
-Holder gains a dim aura in like fashion to the moon, at night, regardless of moon phase.
+* Smelted
+	Holder gains a dim aura in like fashion to the moon, at night, regardless of moon phase.
 
-Alloyed
+* Alloyed
 
-Worked
+* Worked
 
-Joined
+* Joined
 Prolonged connection allows for invisibility during daytime. Byalinn demands all connected must bath in open water at full moon without question. 
 
 ==== Star ====
@@ -163,35 +182,41 @@ Prolonged connection allows for invisibility during daytime. Byalinn demands all
 
 Effect Description
 
-Genetic
-
-Raw Ore
-
-Smelted
-
-Alloyed
-
-Worked
-
-Joined
+* Genetic
+	Entrance anything that looks directly in its eyes
+	
+* Raw Ore
+	When held or worn this raw mineral causes the holder to have an unquenchable desire, at night, to be outside and observe the motions of the heavens for at least 2 hours. Meteor showers can cause such wonder that the holder is transfixed and may become unaware completely of their surroundings until at least the 2 hour hold has been achieved.
+	
+* Smelted
+	If held or worn this metal imparts a basic knowledge of the heavens and of all things that cause one to be transfixed or hypnotized. With a prolonged connection(Five years without disruption), The holder is additionally unable to be tricked by any but the most powerful means.
+	
+* Alloyed
+	stuff
+	
+* Worked
+	stuff
+	
+* Joined
+	No. There is no ceremony that can connect one directly to Ordrinn(This is supposed because the power bestowed by Ordrinn would be too dangerous and was shunted by the Nevers to prevent the imbalance of the world. See: Ages: Second Age) However, if one should hold or wear a pure crown or ring of Eilon for a minimum of 20 years, that one would garner the ability of a Star Creature.
 
 ==== Invert ====
-	Primary Odem: 
-	Assoc. Metal: 
+	Primary Odem: Meark
+	Assoc. Metal: Iron
 
 Effect Description
 
-Genetic
+* Genetic
 
-Raw Ore
+* Raw Ore
 
-Smelted
+* Smelted
 
-Alloyed
+* Alloyed
 
-Worked
+* Worked
 
-Joined
+* Joined
 
 ==== Shock ====
 	Primary Odem: 
@@ -248,6 +273,7 @@ Worked
 Joined
 
 ===== Meardema Charge Types =====
+	_{Learn more about the [[The Meardema|Meardema]] and [[Meark]]}
 
 ==== Coral ====
 	Primary Odem: 

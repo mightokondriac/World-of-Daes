@@ -1,0 +1,367 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-01-07T21:44:51-05:00
+
+====== Metal Types ======
+Created Friday 07 January 2022
+
+Effect_Types
+Genetic: When the metal has infused genetically over many generations. This is happens almost exclusively because of the Wells.
+Raw Ore: When the raw veins are still in their stone matrix.
+Smelted: When the stone has been processed and the metal extracted.
+Alloyed: If combined with other metals either naturally or by metallurgy.
+Worked: If the processed metal is worked into a specific forms.
+Joined: If the owner has accessed the Odem through ritual and pure metal.
+
+
+===== Aston =====
+Ruled by [[Kam]]
+Effect Type: Chronicle*, [[Charge Types#wind|Wind]]
+
+===== Gold =====
+Ruled by [[Muwinn]]
+Effect Type: [[Charge Types#sun|Sun]]
+
+===== Helepion =====
+Ruled by [[Ryyndal]]
+Effect Type: [[Charge Types#fire|Fire]]
+
+===== Sishion =====
+Ruled by [[Anthis]]
+Effect Type: [[Charge Types#water|Water]]
+
+===== Hiorebon =====
+Pronounced Hair-eh bon
+Ruled by [[Nabhiore]]
+Effect Type: [[Charge Types#night|Night]]
+
+===== Ertin =====
+Ruled by [[Umbalinn]]
+Effect Type: [[Charge Types#stone|Stone]]
+
+===== Silver =====
+Ruled by [[Byalinn]]
+Effect Type: Moon
+
+===== Eilon =====
+Ruled by [[Ordrinn]]
+Effect Type: Star
+Effect Description
+Genetic
+Star - 
+
+
+
+Iron
+Ruled by Meark
+Effect_Type
+Effect Description
+Genetic
+Compounding -
+Raw Ore
+stuff
+Smelted
+stuff
+Alloyed
+stuff
+Worked
+stuff
+Joined
+stuff
+
+
+
+Nickle
+Ruled by Klanik
+Effect_Type
+Effect Description
+Genetic
+Shock - Surrounded by a sustained static field which can be condensed like lightning at a target.
+Raw Ore
+Attract and absorb ambient static energy. Not limited to electricity.
+Smelted
+Sustained field of high electrical charge. Highly unstable unless suppressed by Kel housing.
+Alloyed
+stuff
+Worked
+stuff
+Joined
+Yes. OI requires electrical donation. Without a high amplitude discharge regularly(lightning) the OI starts drawing from the holders own energy which can cause fatigue and eventually death. Not required of Genetic offspring, as they collect energy from everything around them constantly.
+
+
+
+Copper
+Ruled by Loffin
+Effect_Type
+Effect Description
+Genetic
+Hammer - Aggressive, Always attacks with collision - can sustain intense impacts in head.
+Raw Ore
+stuff
+Smelted
+stuff
+Alloyed
+stuff
+Worked
+stuff
+Joined
+stuff
+
+
+
+Tin
+Ruled by Crinn
+Effect_Type
+Effect Description
+Genetic
+Tremor - Can cause a small tremor. Ability to sense with high degree minute tremors at long distance.
+Raw Ore
+stuff
+Smelted
+stuff
+Alloyed
+stuff
+Worked
+stuff
+Joined
+stuff
+
+
+
+Kel
+Ruled by Lesrel
+Effect_Type
+Effect Description
+Genetic
+Coral - Excretes a layer of ultra hard lime dolastone which is sloughed off regularly
+Raw Ore
+stuff
+Smelted
+stuff
+Alloyed
+stuff
+Worked
+stuff
+Joined
+stuff
+
+
+
+Bristt
+Ruled by Ki'Mal
+Effect_Type
+Effect Description
+Genetic
+Binary - Born, sustained and live in pairs. Can not by any physical means be separated.
+Raw Ore
+stuff
+Smelted
+stuff
+Alloyed
+stuff
+Worked
+stuff
+Joined
+stuff
+
+
+
+Dristel
+Ruled by Numis
+Effect_Type
+Effect Description
+Genetic
+Thorn - A creature that is covered in thorns, horns, spines, bumps or any other protrusion that is defensive or offensive and not purely for function..
+Raw Ore
+stuff
+Smelted
+stuff
+Alloyed
+stuff
+Worked
+stuff
+Joined
+stuff
+
+
+
+Epilon
+Ruled by Aeorin
+Effect_Type
+Effect Description
+Genetic
+Nova - At the moment of death, explode in a deadly concussive and fiery blast.
+Raw Ore
+stuff
+Smelted
+stuff
+Alloyed
+stuff
+Worked
+stuff
+Joined
+stuff
+
+
+
+Ungolh
+Ruled by Mahgrohl
+Effect_Type
+Effect Description
+Genetic
+Shift - Changes shape to any other animal. Does not inherit any other features of target animal.
+Raw Ore
+stuff
+Smelted
+stuff
+Alloyed
+stuff
+Worked
+stuff
+Joined
+stuff
+
+
+
+Aingire
+Ruled by Wiar
+Effect_Type
+Effect Description
+Genetic
+Wind - Can be very aggressive, normal movement draft is significant
+Raw Ore
+stuff
+Smelted
+stuff
+Alloyed
+stuff
+Worked
+stuff
+Joined
+stuff
+
+
+
+Yoike
+Ruled by Umbanthis
+Effect_Type
+Effect Description
+Genetic
+Clay - this creature can hear and feel any vibration while touching the earth, and can also blend into anything that is either a plant or earth.
+Raw Ore
+stuff
+Smelted
+stuff
+Alloyed
+stuff
+Worked
+stuff
+Joined
+stuff
+
+
+
+Toningiree
+Ruled by Diyesrel
+Effect_Type
+Effect Description
+Genetic
+Hydriac - A creature that is born with 2 or more heads. For each additional head it gains proportionally more connection to the Intelligent source and strength in any alloyic component.
+Raw Ore
+stuff
+Smelted
+stuff
+Alloyed
+stuff
+Worked
+stuff
+Joined
+stuff
+
+
+
+Gikertoninvee
+Ruled by Dym
+Effect_Type
+Effect Description
+Genetic
+Dagger - Highly Aggressive, impales part or all of itself into victim
+Raw Ore
+stuff
+Smelted
+stuff
+Alloyed
+stuff
+Worked
+stuff
+Joined
+stuff
+
+
+
+Safira
+Ruled by Safryy
+Effect_Type
+Effect Description
+Genetic
+Phoenix - At the moment of death, become ash colored orbs. After 100 years, these creatures are reborn from the 'ash eggs'.
+Raw Ore
+stuff
+Smelted
+stuff
+Alloyed
+stuff
+Worked
+stuff
+Joined
+stuff
+
+
+
+Natural Alloys
+
+Copnell (Copper/Nickel/Kel)
+Effect_Type
+Effect Description
+Genetic
+Invert
+Raw Ore
+stuff
+Smelted
+stuff
+Alloyed
+stuff
+Worked
+stuff
+Joined
+stuff
+
+
+
+Skagold
+Codiron
+Britin
+Sansilver
+Qinickle
+tingilver
+feduverix
+xinara
+horanoxion
+stargold
+
+Effect Tables
+unmade
+Endo - Is constructed and does everything backwards. Causes confusion in proximity.
+Invert - [ Copnell ] Is constructed completely inverted. some species are extremely vulnerable.
+Aemib - A creature that is both male and female and splits in half to propagate.
+Arieal - A creature that can fly with or without wings or natural lift power.
+Nighteye - a nighteye can detect anything from thousands of miles away(only at night.)
+Ice - Lives in, is sustained on, becomes in death; ice. Secretes 'singing' ice on back of head.
+
+Combination Creature Types ( from Natural Alloys )
+Depending on the location , some creatures have inherited 2 or more affects.
+Sun-Hammer - When charging, it blinds its victim first.
+Night-Coral - Utterly black plates are sloughed off. Extremely formidable. Plates are highly prized.
+Wind-Dagger - Uncontrollably aggressive. Can move with startling speed. Consequently it passes through its victim (occasionally multiple times) with ease and great force.
+Shock-Nova - Extremely rare. In death, a cataclysmic EMP pulse precedes the explosion causing a massive lightning storm and can render any surviving electromagnetic field inert. I.e. brains.
+Night Thorn - Utterly Black with black Thorns edged with razor sharp metal.

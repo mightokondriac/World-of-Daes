@@ -41,7 +41,7 @@ Brimd
 
 ===== The Shapers =====
 
-[[rend|Rendabash]]
+Rendabash
 
 [[Alinaressa]]
 

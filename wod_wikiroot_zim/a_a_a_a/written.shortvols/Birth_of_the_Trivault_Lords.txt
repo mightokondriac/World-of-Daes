@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2015-09-13T19:06:26-04:00
 
 ====== Birth of the Trivault Lords ======
@@ -11,7 +11,7 @@ Creation-Date: 2015-09-13T19:06:26-04:00
 
 	Image Before the creatures walked the face of the world of Daes, the EvRelach Sogema ([[Brothers of Metal]]) toiled in the [[Great Forge of Ryyndal]] (the Odem of Fire). There they created the shapes that would decide the structure of all creatures that would roam free in the forests and mountains. These shapes made from the twelve primary metals were put into the [Reglam Well] that resided in the [Trivault] and created the Twelve Lords who would then traverse the world and educate it in all the ways of wisdom.
 	
-	//Translated and transcribed by the //[[Lanstam Group]]// of //[[:Fornaas Listuary]]//. Original by //[[Kuptra Fiaine]]//, //[[FirstAge|First Age]]//.//
+	//Translated and transcribed by the //[[Lanstam Group]]// of //[[:Fornaas Listuary]]//. Original by //[[Kuptra Fiaine]]//, //[[World Data:Ages of Daes:FirstAge|First Age]]//.//
 
 
 ===== Preamble =====

@@ -8,7 +8,7 @@ Created Monday 22 January 2018
 
 
 ==== See Also ====
-* [[a a a a:World Data:Segmented Time Gradients]]
+* [[Segmented Time Gradients]]
 
 ===== Timelines =====
 {{~\Desktop\_Writing\daes\_srcimgs\Timeline Themes - Abstract.png?width=325}}

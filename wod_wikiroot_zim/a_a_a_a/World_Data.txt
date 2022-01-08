@@ -10,9 +10,12 @@ World Data is information that is absolute information about the nature of how t
 [[+Odem Charge|Odem Charge]]
 	[[+Odem Charge:Charge Types|Charge Types]]
 	[[+Odem Charge:Trigger Types|Trigger Types]]
-[[+Segmented Time Gradients|Segmented Time Gradients]] (Timelines)
+	[[+Odem Charge:Metal Types|Metal Types]]
+[[+Ages of Daes:Segmented Time Gradients|Segmented Time Gradients]] (Timelines)
 
 World: [[+World|Daes]]
+
+[[+Ages of Daes|Ages of Daes]]
 
 [[+Landmasses|Landmasses]]
 	[[+Landmasses:Godorand|Godorand]]

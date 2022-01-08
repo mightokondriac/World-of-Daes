@@ -1,9 +1,9 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2015-09-13T22:01:24-04:00
 
 ++ schema.Project Data
-[[Time Scales]]
+[[a a a a:World Data:Ages of Daes:Time Scales]]
 Use these guidelines to construct a written project. The elements involved describe how this written work can be interacted with in the future(other written works, either by by yourself or others).
 
 ++Timeline:

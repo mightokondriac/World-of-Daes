@@ -6,7 +6,7 @@ Creation-Date: 2015-09-13T19:35:17-04:00
 @timescale @node @core @worlddata
 
 ===== Pre-First Age =====
-see [[Time Scales]] or [[a a a a:World Data:Segmented Time Gradients]] for more on Pre-History
+see [[a a a a:World Data:Ages of Daes:Time Scales]] or [[a a a a:World Data:Ages of Daes:Segmented Time Gradients]] for more on Pre-History
 
 ===== First Age =====
 Creation of the Odem and the Precipitant
